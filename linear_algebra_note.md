@@ -165,7 +165,7 @@ $$
 	  - **注意:** 单位矩阵E通过第三种**行**变换和**列**变换得到的初等矩阵是不一样的，即：
 		  - $E(kr_i + r_j) \neq E(kc_i + c_j)$
 
-- **变换性质** 
+- **课本性质1(变换性质)** 
 	- 用初等矩阵**左**乘$A$相当于对A做**同种**的初等**行**变换。如：对$A_{m \times n}$ **左**乘$m$阶初等矩阵$P_m$，相当于对其做相应的初等**行**变换:
 		- $P_m A_{m \times n} \overset{r} \sim A_{m \times n}$
 	- 用初等矩阵**右**乘$A$，相当于对$A$做**同种**的初等**列**变换。如：对$A_{m \times n}$ **右**乘$n$阶初等矩阵$Q_n$，相当于对其做相应的初等**列**变换：
@@ -188,8 +188,8 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjU4NjE3OCwxMzI0NDk0NDczLC0xNj
-YxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1MjAw
-MiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2MTUsMT
-Q4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
+eyJoaXN0b3J5IjpbMjEwNjk2ODc5NywyMDg2NTg2MTc4LDEzMj
+Q0OTQ0NzMsLTE2NjEwNDUwNiwxOTExMTI0NzcsOTQxNDg5OTY0
+LC0xMjYwODUyMDAyLC03Njc2NDc0ODEsLTExNTE5MzQyNDgsLT
+c2NzMwMDYxNSwxNDgyNjU2MjgyLDEyMjcwNDE5NDldfQ==
 -->
