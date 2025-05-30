@@ -233,17 +233,23 @@ $$
 	求解矩阵方程$AX=B$，其中
 	$$
 	A=
-	\begin{matrix}
+	\left[\begin{matrix}
 	2 & 1 & -3\\
 	1 & 2 & -2\\
-	-1 & 
-	\end{matrix}
+	-1 & 3 & 2
+	\end{matrix}\right],
+	B=
+	\left[\begin{matrix}
+	1 & -1\\
+	2 & 0\\
+	-2 & 5
+	\end{matrix}\right]
 	$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0ODE1NTgsMTEyMjU0ODM3NiwxNTA1Mj
-A0MTY5LC04MjA3NDI0ODcsLTEwNTk1ODM3OSwtMTIyMzg0MzUx
-NCwyMTA2OTY4Nzk3LDIwODY1ODYxNzgsMTMyNDQ5NDQ3MywtMT
-Y2MTA0NTA2LDE5MTExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4NTIw
-MDIsLTc2NzY0NzQ4MSwtMTE1MTkzNDI0OCwtNzY3MzAwNjE1LD
-E0ODI2NTYyODIsMTIyNzA0MTk0OV19
+eyJoaXN0b3J5IjpbMTcwNzY2NzAxMSwxMTIyNTQ4Mzc2LDE1MD
+UyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQz
+NTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMzI0NDk0NDczLC
+0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1
+MjAwMiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2MT
+UsMTQ4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
 -->
