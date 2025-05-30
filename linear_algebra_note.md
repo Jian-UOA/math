@@ -172,10 +172,10 @@ $$
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
 - 初等矩阵的**转置**性质
 	- 初等矩阵的转置**仍是**初等矩阵
-		- 第一种初等矩阵仍是它本身
-			- $[E(i)]$
+		- $[E(i,j)]^T = E(i,j)$
+		- $[E(ki)]^T$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzE5NjE0OCwtNzY3NjQ3NDgxLC0xMT
-UxOTM0MjQ4LC03NjczMDA2MTUsMTQ4MjY1NjI4MiwxMjI3MDQx
-OTQ5XX0=
+eyJoaXN0b3J5IjpbLTE0ODk5ODgzMjksLTc2NzY0NzQ4MSwtMT
+E1MTkzNDI0OCwtNzY3MzAwNjE1LDE0ODI2NTYyODIsMTIyNzA0
+MTk0OV19
 -->
