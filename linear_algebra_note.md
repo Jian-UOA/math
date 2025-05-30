@@ -169,7 +169,7 @@ $$
 - **性质2(转置性质)** 初等矩阵的**转置**仍是 **初等矩阵**
 	- $[E(i\leftrightarrow j)]^T = E(i\leftrightarrow j)$
 	- $[E(i(k))]^T = E(i(k))$
-	- $[E(ijki+j)]^T = E(kj+i)$
+	- $[E(ij(k))]^T = E(ji(k))$
 - **性质3(可逆性质)** 初等矩阵均可逆，其逆阵也是同种的初阵
 	- 第1种初等矩阵的行列式等于$-1 \neq 0$，故可逆。其逆矩阵等于它本身，即：
 		- $[E(i \leftrightarrow j)]^{-1} = E(i \leftrightarrow j)$
@@ -183,7 +183,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDM0OTI0OSwtMTI2MDg1MjAwMiwtNz
+eyJoaXN0b3J5IjpbMTkzNTAzMzgwNCwtMTI2MDg1MjAwMiwtNz
 Y3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2MTUsMTQ4MjY1
 NjI4MiwxMjI3MDQxOTQ5XX0=
 -->
