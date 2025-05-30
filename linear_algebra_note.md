@@ -282,9 +282,12 @@ $$
 
 - ***求解线性方程组**
 	- **课本例4：** 求解线性方程组
-	- 
+		$$
+		\begin{array}{ll}
+		\end{array}
+		$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ5ODUyNzcsLTk0NjcyNDQzOSwyMD
+eyJoaXN0b3J5IjpbLTIwMTczMjUyNTIsLTk0NjcyNDQzOSwyMD
 A4MDY5NjkxLDc3NDcxODQ0NywxMTIyNTQ4Mzc2LDE1MDUyMDQx
 NjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQzNTE0LD
 IxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMzI0NDk0NDczLC0xNjYx
