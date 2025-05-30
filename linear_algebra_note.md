@@ -246,7 +246,7 @@ $$
 	\Rightarrow X=A^{-1}B
 	$$
 	- **思路2：** 由
-		- $$
+		$$
 (A, B)=
 \left[
 \begin{array}{ccc:cc}
@@ -263,21 +263,22 @@ $$
 0 & 0 & 1 & -3 & 2
 \end{array}
 \right]
-$$ 可见
-$$
+$$ 
+$$可见
 A \overset{r} \sim E，因此A可逆，且
 X=A^{-1}B=
 \left[\begin{matrix}
 -4 & 2\\
 0 & 1\\
 -3 & 2
-\end\right]
+\end{matrix}\right]
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3ODkwODY2LDc3NDcxODQ0NywxMTIyNT
-Q4Mzc2LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5
-LC0xMjIzODQzNTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMz
-I0NDk0NDczLC0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2
-NCwtMTI2MDg1MjAwMiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC
-03NjczMDA2MTUsMTQ4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
+eyJoaXN0b3J5IjpbLTIwMDcyMzUyMDIsNzc0NzE4NDQ3LDExMj
+I1NDgzNzYsMTUwNTIwNDE2OSwtODIwNzQyNDg3LC0xMDU5NTgz
+NzksLTEyMjM4NDM1MTQsMjEwNjk2ODc5NywyMDg2NTg2MTc4LD
+EzMjQ0OTQ0NzMsLTE2NjEwNDUwNiwxOTExMTI0NzcsOTQxNDg5
+OTY0LC0xMjYwODUyMDAyLC03Njc2NDc0ODEsLTExNTE5MzQyND
+gsLTc2NzMwMDYxNSwxNDgyNjU2MjgyLDEyMjcwNDE5NDldfQ==
+
 -->
