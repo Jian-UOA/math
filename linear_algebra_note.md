@@ -171,9 +171,11 @@ $$
 - **推论**
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
 - 初等矩阵的**转置**性质
-	- 初等矩阵的转置reng
+	- 初等矩阵的转置**仍是**初等矩阵
+		- 第一种初等矩阵仍是它本身
+			- $[E(i)]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzMzI0Nzg4LC03Njc2NDc0ODEsLTExNT
-E5MzQyNDgsLTc2NzMwMDYxNSwxNDgyNjU2MjgyLDEyMjcwNDE5
-NDldfQ==
+eyJoaXN0b3J5IjpbMTg4MzE5NjE0OCwtNzY3NjQ3NDgxLC0xMT
+UxOTM0MjQ4LC03NjczMDA2MTUsMTQ4MjY1NjI4MiwxMjI3MDQx
+OTQ5XX0=
 -->
