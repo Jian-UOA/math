@@ -200,9 +200,10 @@ P(A, E)=(PA, PE)=(B, P)
 (A, E) \overset{r} \sim (B, P)
 $$
 	- 当$F$中有**0行**时(A行满秩)，$P$ **不**唯一，否则(A不是行满秩)$P$ **唯一**。
-- 
+- **求$A^{-1}$**
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjI0OTY2MCwxNTA1MjA0MTY5LC04Mj
+eyJoaXN0b3J5IjpbLTI4NTE1MTc2NCwxNTA1MjA0MTY5LC04Mj
 A3NDI0ODcsLTEwNTk1ODM3OSwtMTIyMzg0MzUxNCwyMTA2OTY4
 Nzk3LDIwODY1ODYxNzgsMTMyNDQ5NDQ3MywtMTY2MTA0NTA2LD
 E5MTExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4NTIwMDIsLTc2NzY0
