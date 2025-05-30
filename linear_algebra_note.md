@@ -275,6 +275,7 @@ X=A^{-1}B=
 即为所给方程的唯一解。
 $$ 
 |前提|推导|
+|:----:|:----:|
 |
 $$
 A^{-1}A=E \\
@@ -287,7 +288,7 @@ P_1 \dots P_sB=X
 $$
 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzA2MjA4Nyw3NzQ3MTg0NDcsMTEyMj
+eyJoaXN0b3J5IjpbMTU0NDUzMTE4Myw3NzQ3MTg0NDcsMTEyMj
 U0ODM3NiwxNTA1MjA0MTY5LC04MjA3NDI0ODcsLTEwNTk1ODM3
 OSwtMTIyMzg0MzUxNCwyMTA2OTY4Nzk3LDIwODY1ODYxNzgsMT
 MyNDQ5NDQ3MywtMTY2MTA0NTA2LDE5MTExMjQ3Nyw5NDE0ODk5
