@@ -161,7 +161,8 @@ $$
 		- $A_{m \times n}P_n \overset{c} \sim A_{m \times n}$
 - **性质2**
 	- 方阵$A$可逆的充要条件是存在**有限个**初等矩阵$P_1, P_2, \ldots, P_l$, 使$A=P_1P_2 \ldots P_l$.
-	- 
+- **推论**
+	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY0NTkxMiwxMjI3MDQxOTQ5XX0=
+eyJoaXN0b3J5IjpbMTQ4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
 -->
