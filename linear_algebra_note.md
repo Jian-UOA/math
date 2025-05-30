@@ -248,17 +248,19 @@ $$
 	- **思路2：**
 		- $$
 (A, B)=
-\left[\begin{matrix}
+\left[
+\begin{array}{ccc:cc}
 2 & 1 & -3 & 1 & -1\\
-1 & 2 & -2 \\
--1 & 3 & 2
-\end{matrix}\right]
+1 & 2 & -2 & 2 & 0\\
+-1 & 3 & 2 & -2 & 5
+\end{array}
+\right]
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4MTY3OTE2LDc3NDcxODQ0NywxMTIyNT
-Q4Mzc2LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5
-LC0xMjIzODQzNTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMz
-I0NDk0NDczLC0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2
-NCwtMTI2MDg1MjAwMiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC
-03NjczMDA2MTUsMTQ4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
+eyJoaXN0b3J5IjpbNzY4MzkyMTcsNzc0NzE4NDQ3LDExMjI1ND
+gzNzYsMTUwNTIwNDE2OSwtODIwNzQyNDg3LC0xMDU5NTgzNzks
+LTEyMjM4NDM1MTQsMjEwNjk2ODc5NywyMDg2NTg2MTc4LDEzMj
+Q0OTQ0NzMsLTE2NjEwNDUwNiwxOTExMTI0NzcsOTQxNDg5OTY0
+LC0xMjYwODUyMDAyLC03Njc2NDc0ODEsLTExNTE5MzQyNDgsLT
+c2NzMwMDYxNSwxNDgyNjU2MjgyLDEyMjcwNDE5NDldfQ==
 -->
