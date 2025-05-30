@@ -245,9 +245,9 @@ $$
 	A^{-1}AX=A^{-1}B \\
 	\Rightarrow X=A^{-1}B
 	$$
-	- **思路2：** 由
+	- **思路2：** 
 		$$
-(A, B)=
+由(A, B)=
 \left[
 \begin{array}{ccc:cc}
 2 & 1 & -3 & 1 & -1\\
@@ -272,9 +272,10 @@ X=A^{-1}B=
 0 & 1\\
 -3 & 2
 \end{matrix}\right]
-$$
+即为所给方程的唯一解。
+$$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDcyMzUyMDIsNzc0NzE4NDQ3LDExMj
+eyJoaXN0b3J5IjpbLTEyMzIyNDg4ODYsNzc0NzE4NDQ3LDExMj
 I1NDgzNzYsMTUwNTIwNDE2OSwtODIwNzQyNDg3LC0xMDU5NTgz
 NzksLTEyMjM4NDM1MTQsMjEwNjk2ODc5NywyMDg2NTg2MTc4LD
 EzMjQ0OTQ0NzMsLTE2NjEwNDUwNiwxOTExMTI0NzcsOTQxNDg5
