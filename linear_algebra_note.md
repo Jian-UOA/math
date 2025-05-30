@@ -187,7 +187,7 @@ $$
 	-  方阵A可逆的**充要**条件是 $A \overset{r} \sim E$，即：
 		- $A_n可逆 \Leftrightarrow A_n \overset{r} \sim E$
 
-* *求可逆矩阵P: 
+* ***求可逆矩阵P:**
 $$
 PA=B \Leftrightarrow
 \begin{cases}
@@ -201,7 +201,7 @@ P(A, E)=(PA, PE)=(B, P)
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjQ4NzkxOSwtMTIyMzg0MzUxNCwyMT
+eyJoaXN0b3J5IjpbLTEwNTk1ODM3OSwtMTIyMzg0MzUxNCwyMT
 A2OTY4Nzk3LDIwODY1ODYxNzgsMTMyNDQ5NDQ3MywtMTY2MTA0
 NTA2LDE5MTExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4NTIwMDIsLT
 c2NzY0NzQ4MSwtMTE1MTkzNDI0OCwtNzY3MzAwNjE1LDE0ODI2
