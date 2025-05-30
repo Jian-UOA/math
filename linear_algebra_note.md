@@ -187,7 +187,7 @@ $$
 	-  方阵A可逆的**充要**条件是 $A \overset{r} \sim E$，即：
 		- $A_n可逆 \Leftrightarrow A_n \overset{r} \sim E$
 
-* ***课本例1：求可逆矩阵P:**
+* **求可逆矩阵P:**
 $$
 PA=B \Leftrightarrow
 \begin{cases}
@@ -200,15 +200,16 @@ P(A, E)=(PA, PE)=(B, P)
 (A, E) \overset{r} \sim (B, P)
 $$
 	- 当$F$中有**0行**时(A行满秩)，$P$ **不**唯一，否则(A不是行满秩)$P$ **唯一**。
+	- **
 - **课本例2：求$A^{-1}$**
 	- $(A, E) \overset{r} \sim (F, P), 当F=E时，P=A^{-1}$
 	- 解释：由上面“*求可逆矩阵$P$”的过程知，在$(A, E) \overset{r} \sim (F, P)$中，F是行最简形矩阵，若$F=E$，由上面的推论知$A$可逆，且由$PA=F=E$可知，$P$为A的逆矩阵，即$P=A^{-1}$。
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjU0ODM3NiwxNTA1MjA0MTY5LC04Mj
-A3NDI0ODcsLTEwNTk1ODM3OSwtMTIyMzg0MzUxNCwyMTA2OTY4
-Nzk3LDIwODY1ODYxNzgsMTMyNDQ5NDQ3MywtMTY2MTA0NTA2LD
-E5MTExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4NTIwMDIsLTc2NzY0
-NzQ4MSwtMTE1MTkzNDI0OCwtNzY3MzAwNjE1LDE0ODI2NTYyOD
-IsMTIyNzA0MTk0OV19
+eyJoaXN0b3J5IjpbLTE1NTg4NzQ1OTksMTEyMjU0ODM3NiwxNT
+A1MjA0MTY5LC04MjA3NDI0ODcsLTEwNTk1ODM3OSwtMTIyMzg0
+MzUxNCwyMTA2OTY4Nzk3LDIwODY1ODYxNzgsMTMyNDQ5NDQ3My
+wtMTY2MTA0NTA2LDE5MTExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4
+NTIwMDIsLTc2NzY0NzQ4MSwtMTE1MTkzNDI0OCwtNzY3MzAwNj
+E1LDE0ODI2NTYyODIsMTIyNzA0MTk0OV19
 -->
