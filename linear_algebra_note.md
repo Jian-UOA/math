@@ -143,7 +143,9 @@ $$
 
   此标准形由$m, n, r$三个数完全确定，其中$r$是阶梯形矩阵中非零行的行数。
 * **定理1** 设A与B均为$m \times n$的矩阵， 那么
-  - (i) $A \overset{r} \sim B$ 的充分必要条件是存在$m$阶可逆矩阵的$P$，使得$PA=B$；让$P=P_s \dots P_1$，则有：
+  - (i) $A \overset{r} \sim B$ 的充分必要条件是存在$m$阶可逆矩阵的$P$，使得$PA=B$；即：
+		- $A \overset{r} \sim B $
+让$P=P_s \dots P_1$，则有：
 	  - $(P_s \dots P_1)^{-1} = P_1^{-1} \dots P_s^{-1}$
 	  - $|P|=|P_s| \dots |P_1| \neq 0$
   - (ii) $A \overset{c} \sim B$ 的充分必要条件是存在$n$阶可逆矩阵$Q=Q_1 \dots Q_t$，使得$AQ=B$；
@@ -185,8 +187,8 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDQ5NDQ3MywtMTY2MTA0NTA2LDE5MT
-ExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4NTIwMDIsLTc2NzY0NzQ4
-MSwtMTE1MTkzNDI0OCwtNzY3MzAwNjE1LDE0ODI2NTYyODIsMT
-IyNzA0MTk0OV19
+eyJoaXN0b3J5IjpbMTg1ODgwMTE4MSwxMzI0NDk0NDczLC0xNj
+YxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1MjAw
+MiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2MTUsMT
+Q4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
 -->
