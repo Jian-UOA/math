@@ -213,13 +213,18 @@ $$
 	- $(A, E) \overset{r} \sim (F, P), 当F=E时，P=A^{-1}$
 	- 解释：由上面“*求可逆矩阵$P$”的过程知，在$(A, E) \overset{r} \sim (F, P)$中，F是行最简形矩阵，若$F=E$，由上面的推论知$A$可逆，且由$PA=F=E$可知，$P$为A的逆矩阵，即$P=A^{-1}$。
 	- **课本例2：**设
-	￥￥
+	$$
+	A=
+	\left[ \begin{matrix} 
+	1 & 2 & 3\\
+	4 & 5 & 6 \\ 7 & 8 & 9 \end{matrix} \right]
+	$$
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5Njk1MTkwLDExMjI1NDgzNzYsMTUwNT
-IwNDE2OSwtODIwNzQyNDg3LC0xMDU5NTgzNzksLTEyMjM4NDM1
-MTQsMjEwNjk2ODc5NywyMDg2NTg2MTc4LDEzMjQ0OTQ0NzMsLT
-E2NjEwNDUwNiwxOTExMTI0NzcsOTQxNDg5OTY0LC0xMjYwODUy
-MDAyLC03Njc2NDc0ODEsLTExNTE5MzQyNDgsLTc2NzMwMDYxNS
-wxNDgyNjU2MjgyLDEyMjcwNDE5NDldfQ==
+eyJoaXN0b3J5IjpbMTA5NTk1MDg0OCwxMTIyNTQ4Mzc2LDE1MD
+UyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQz
+NTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMzI0NDk0NDczLC
+0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1
+MjAwMiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2MT
+UsMTQ4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
 -->
