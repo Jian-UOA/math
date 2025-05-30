@@ -223,11 +223,13 @@ $$
 	$$, 证明$A$可逆，并求$A^{-1}$。
 - **解矩阵方程**
 	- **思路1:**
-	$(A, E) \overset{r} \sim (E, A^{-1}) \$
+	$(A, E) \overset{r} \sim (E, A^{-1}) \Rightarrow A^{-1}，对AX=B两边同乘以A^{-1}，即：
+	A^{-1}
+	$
 	- **课本例3:**
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk4MzE4MDUsMTEyMjU0ODM3NiwxNT
+eyJoaXN0b3J5IjpbLTEwMjQxNTUzNjMsMTEyMjU0ODM3NiwxNT
 A1MjA0MTY5LC04MjA3NDI0ODcsLTEwNTk1ODM3OSwtMTIyMzg0
 MzUxNCwyMTA2OTY4Nzk3LDIwODY1ODYxNzgsMTMyNDQ5NDQ3My
 wtMTY2MTA0NTA2LDE5MTExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4
