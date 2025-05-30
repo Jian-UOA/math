@@ -153,9 +153,10 @@ $$
 
   - (i) 把单位矩阵中第i, j两行(列)对换， 得到的初等矩阵；
 	  -	对换相同序数的**行、列**变换得到的初等矩阵是一样的，即:
-		  -	$E_m(r_i \leftrightarrow r_j) = E_m(c_i \leftrightarrow c_j)$
+		  -	$E(r_i \leftrightarrow r_j) = E(c_i \leftrightarrow c_j)$
   - (ii) 以数$k\neq 0$ 乘单位矩阵的第i行(列)， 得到的初等矩阵;
-	  - 在单位矩阵相同序数的**行、列**上乘以
+	  - 在单位矩阵相同序数的**行、列**上乘以一个数，得到的矩阵是相同的，即：
+		  - $E(kr_i) = E
   - (iii) 以$k \neq 0$ 乘单位矩阵的第$j$行(列)加到第$i$行(列)上，得到的初等矩阵。  
 
 - **性质1** 
@@ -168,6 +169,6 @@ $$
 - **推论**
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2ODQxMDQzLC03NjczMDA2MTUsMTQ4Mj
-Y1NjI4MiwxMjI3MDQxOTQ5XX0=
+eyJoaXN0b3J5IjpbMTgxOTcwMzc2OCwtNzY3MzAwNjE1LDE0OD
+I2NTYyODIsMTIyNzA0MTk0OV19
 -->
