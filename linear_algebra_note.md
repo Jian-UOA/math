@@ -263,10 +263,13 @@ $$
 0 & 0 & 1 & -3 & 2
 \end{array}
 \right]
-$$ke
+$$可见
+$$
+A \overset{r} \sim E，因此A可逆，且
+X=A^{-1}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU2MjgxNjAsNzc0NzE4NDQ3LDExMj
+eyJoaXN0b3J5IjpbLTE4MzM0Mjc5MjEsNzc0NzE4NDQ3LDExMj
 I1NDgzNzYsMTUwNTIwNDE2OSwtODIwNzQyNDg3LC0xMDU5NTgz
 NzksLTEyMjM4NDM1MTQsMjEwNjk2ODc5NywyMDg2NTg2MTc4LD
 EzMjQ0OTQ0NzMsLTE2NjEwNDUwNiwxOTExMTI0NzcsOTQxNDg5
