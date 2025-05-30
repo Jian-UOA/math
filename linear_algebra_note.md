@@ -175,20 +175,20 @@ $$
 	- $[E(i(k))]^T = E(i(k))$
 	- $[E(ij(k))]^T = E(ji(k))$
 - **可逆性质** 初等矩阵均可逆，其逆阵也是**同种**的初阵
-	- 第1种初等矩阵的行列式等于$-1 \neq 0$，故可逆。其逆矩阵等于它本身，即：
+	- **第1种初等矩阵**的行列式等于$-1 \neq 0$，故可逆。其逆矩阵等于它本身，即：
 		- $[E(i \leftrightarrow j)]^{-1} = E(i \leftrightarrow j)$
-	- 第2种初等矩阵的行列式等于所乘系数$k \neq 0$，故可逆。其逆矩阵等于它本身：
+	- **第2种初等矩阵**的行列式等于所乘系数$k \neq 0$，故可逆。其逆矩阵等于它本身：
 		- $[E(i(k))]^{-1} = E(i(\frac{1}{k}))$
-	- 第3种初等矩阵的行列式等于$1 \neq 0$，故可逆
+	- **第3种初等矩阵**的行列式等于$1 \neq 0$，故可逆
 		- $[E(ij(k))]{-1} = E(ij(-k))$
-	- 方阵$A$可逆的充要条件是存在**有限个**初等矩阵$P_1, P_2, \ldots, P_l$, 使$A=P_1P_2 \ldots P_l$.
+- [课本性质2]方阵$A$可逆的充要条件是存在**有限个**初等矩阵$P_1, P_2, \ldots, P_l$, 使$A=P_1P_2 \ldots P_l$.
 - **推论**
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjYzOTIyNywxMzI0NDk0NDczLC0xNj
-YxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1MjAw
-MiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2MTUsMT
-Q4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
+eyJoaXN0b3J5IjpbLTExOTEwMjUxOTgsMTMyNDQ5NDQ3MywtMT
+Y2MTA0NTA2LDE5MTExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4NTIw
+MDIsLTc2NzY0NzQ4MSwtMTE1MTkzNDI0OCwtNzY3MzAwNjE1LD
+E0ODI2NTYyODIsMTIyNzA0MTk0OV19
 -->
