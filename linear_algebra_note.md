@@ -166,17 +166,18 @@ $$
 		- $P_m A_{m \times n} \overset{r} \sim A_{m \times n}$
 	- 用初等矩阵**右**乘A，相当于对A做同种的初等列变换。如：对$A_{m \times n}$ **右**乘$n$阶初等矩阵$Q_n$，相当于对其做相应的初等**列**变换：
 		- $A_{m \times n}P_n \overset{c} \sim A_{m \times n}$
+- **性质2** 初等矩阵的**转置**仍是 **初等矩阵**
+	- $[E(i\leftrightarrow j)]^T = E(i\leftrightarrow j)$
+	- $[E(ki)]^T = E(ki)$
+	- $[E(ki+j)]^T = E(kj+i)$
 - **性质2** (可逆性质)
 	- 方阵$A$可逆的充要条件是存在**有限个**初等矩阵$P_1, P_2, \ldots, P_l$, 使$A=P_1P_2 \ldots P_l$.
 - **推论**
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
-- **性质3** 初等矩阵的**转置**仍是 **初等矩阵**
-	- $[E(i\leftrightarrow j)]^T = E(i\leftrightarrow j)$
-	- $[E(ki)]^T = E(ki)$
-	- $[E(ki+j)]^T = E(kj+i)$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc1ODExMDMsLTEyNjA4NTIwMDIsLT
-c2NzY0NzQ4MSwtMTE1MTkzNDI0OCwtNzY3MzAwNjE1LDE0ODI2
-NTYyODIsMTIyNzA0MTk0OV19
+eyJoaXN0b3J5IjpbLTkwNjQxMDc5MCwtMTI2MDg1MjAwMiwtNz
+Y3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2MTUsMTQ4MjY1
+NjI4MiwxMjI3MDQxOTQ5XX0=
 -->
