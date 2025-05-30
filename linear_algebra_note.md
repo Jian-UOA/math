@@ -159,6 +159,8 @@ $$
 		- $P_m A_{m \times n} \overset{r} \sim A_{m \times n}$
 	- 对$A_{m \times n}$ **右**乘$n$阶初等矩阵$Q_n$，相当于对其做相应的初等**列**变换。
 		- $A_{m \times n}P_n \overset{c} \sim A_{m \times n}$
+- **性质2**
+	- 方阵$A$可逆的充要条件是存在
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjM5ODU4NCwxMjI3MDQxOTQ5XX0=
+eyJoaXN0b3J5IjpbLTIwNjUxMDgwMTEsMTIyNzA0MTk0OV19
 -->
