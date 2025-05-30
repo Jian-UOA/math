@@ -160,7 +160,7 @@ $$
 	- 对$A_{m \times n}$ **右**乘$n$阶初等矩阵$Q_n$，相当于对其做相应的初等**列**变换。
 		- $A_{m \times n}P_n \overset{c} \sim A_{m \times n}$
 - **性质2**
-	- 方阵$A$可逆的充要条件是存在有限个初等矩阵$P_1, P_2, 
+	- 方阵$A$可逆的充要条件是存在有限个初等矩阵$P_1, P_2, \ldots, P_l$, 使$A=P_1P_2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3Nzc5NDM1LDEyMjcwNDE5NDldfQ==
+eyJoaXN0b3J5IjpbLTM0NTIyMzM5MCwxMjI3MDQxOTQ5XX0=
 -->
