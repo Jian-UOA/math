@@ -144,7 +144,7 @@ $$
   此标准形由$m, n, r$三个数完全确定，其中$r$是阶梯形矩阵中非零行的行数。
 * **定理1** 设A与B均为$m \times n$的矩阵， 那么
   - (i) $A \overset{r} \sim B$ 的充分必要条件是存在$m$阶可逆矩阵的$P$，使得$PA=B$；即：
-		- $A \overset{r} \sim B $
+		- $A \overset{r} \sim B \Leftrightarrow P=P_s \dots P_1, PA=B$
 让$P=P_s \dots P_1$，则有：
 	  - $(P_s \dots P_1)^{-1} = P_1^{-1} \dots P_s^{-1}$
 	  - $|P|=|P_s| \dots |P_1| \neq 0$
@@ -187,7 +187,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODgwMTE4MSwxMzI0NDk0NDczLC0xNj
+eyJoaXN0b3J5IjpbLTIyNDM3NDI1MCwxMzI0NDk0NDczLC0xNj
 YxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1MjAw
 MiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2MTUsMT
 Q4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
