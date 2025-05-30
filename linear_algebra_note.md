@@ -289,9 +289,14 @@ $$
 		3x_1+2x_2-5x_3=0.
 		\end{cases}
 		$$
-		解： 记此方程组为$Ax=b$
+		解： 记此方程组为$Ax=b$，则增广矩阵
+		$$
+		\overset{-}A=(A, b)=
+		\left[
+		\begin
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjMwMDE2MSwxNDMwODQ2NjA0LC05ND
+eyJoaXN0b3J5IjpbMTgxNzUyMzQxOCwxNDMwODQ2NjA0LC05ND
 Y3MjQ0MzksMjAwODA2OTY5MSw3NzQ3MTg0NDcsMTEyMjU0ODM3
 NiwxNTA1MjA0MTY5LC04MjA3NDI0ODcsLTEwNTk1ODM3OSwtMT
 IyMzg0MzUxNCwyMTA2OTY4Nzk3LDIwODY1ODYxNzgsMTMyNDQ5
