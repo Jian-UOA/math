@@ -162,15 +162,15 @@ $$
 		  - $E(kr_i + r_j) \neq E(kc_i + c_j)$
 
 - **性质1** 
-	- 用初等矩阵**左**乘$A$相当于对A做同种的初等**行**变换。即：对$A_{m \times n}$ **左**乘$m$阶初等矩阵$P_m$，相当于对其做相应的初等**行**变换；
+	- 用初等矩阵**左**乘$A$相当于对A做同种的初等**行**变换。如：对$A_{m \times n}$ **左**乘$m$阶初等矩阵$P_m$，相当于对其做相应的初等**行**变换:
 		- $P_m A_{m \times n} \overset{r} \sim A_{m \times n}$
-	- 用初等矩阵对$A_{m \times n}$ **右**乘$n$阶初等矩阵$Q_n$，相当于对其做相应的初等**列**变换。
+	- 用初等矩阵**右**乘A，相当于对A做同种的初等列变换。如：对$A_{m \times n}$ **右**乘$n$阶初等矩阵$Q_n$，相当于对其做相应的初等**列**变换：
 		- $A_{m \times n}P_n \overset{c} \sim A_{m \times n}$
 - **性质2**
 	- 方阵$A$可逆的充要条件是存在**有限个**初等矩阵$P_1, P_2, \ldots, P_l$, 使$A=P_1P_2 \ldots P_l$.
 - **推论**
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk0NzA0MjgsLTExNTE5MzQyNDgsLT
-c2NzMwMDYxNSwxNDgyNjU2MjgyLDEyMjcwNDE5NDldfQ==
+eyJoaXN0b3J5IjpbLTc2NzY0NzQ4MSwtMTE1MTkzNDI0OCwtNz
+Y3MzAwNjE1LDE0ODI2NTYyODIsMTIyNzA0MTk0OV19
 -->
