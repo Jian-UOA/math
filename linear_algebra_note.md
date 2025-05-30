@@ -143,7 +143,6 @@ $$
 
   此标准形由$m, n, r$三个数完全确定，其中$r$是阶梯形矩阵中非零行的行数。
 * **定理1** 设A与B均为$m \times n$的矩阵， 那么
-
   - (i) $A \overset{r} \sim B$ 的充分必要条件是存在$m$阶可逆矩阵的$P$，使得$PA=B$；
   - (ii) $A \overset{c} \sim B$ 的充分必要条件是存在$n$阶可逆矩阵$Q$，使得$AQ=B$；
   - (iii) $A \sim B$ 的充分必要条件是存在$m$阶可逆矩阵$P$及n阶可逆矩阵$Q$， 使得$PAQ=B$。
@@ -183,7 +182,8 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MD
-g1MjAwMiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2
-MTUsMTQ4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
+eyJoaXN0b3J5IjpbLTc0NzY3NDM4NSwxOTExMTI0NzcsOTQxND
+g5OTY0LC0xMjYwODUyMDAyLC03Njc2NDc0ODEsLTExNTE5MzQy
+NDgsLTc2NzMwMDYxNSwxNDgyNjU2MjgyLDEyMjcwNDE5NDldfQ
+==
 -->
