@@ -146,7 +146,7 @@ $$
   - (i) $A \overset{r} \sim B$ 的充分必要条件是存在$m$阶可逆矩阵的$P$，使得$PA=B$；让$P=P_s \dots P_1$，则有：
 	  - $(P_s \dots P_1)^{-1} = P_1^{-1} \dots P_s^{-1}$
 	  - $|P|=|P_s| \dots |P_1| \neq 0$
-  - (ii) $A \overset{c} \sim B$ 的充分必要条件是存在$n$阶可逆矩阵$Q$，使得$AQ=B$；
+  - (ii) $A \overset{c} \sim B$ 的充分必要条件是存在$n$阶可逆矩阵$Q=Q_1 \$，使得$AQ=B$；
   - (iii) $A \sim B$ 的充分必要条件是存在$m$阶可逆矩阵$P$及n阶可逆矩阵$Q$， 使得$PAQ=B$。
 
 - **定义 3** 由单位矩阵E经过一次初等变换得到的矩阵成为 `初等矩阵`。
@@ -184,8 +184,8 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjEwNDUwNiwxOTExMTI0NzcsOTQxND
-g5OTY0LC0xMjYwODUyMDAyLC03Njc2NDc0ODEsLTExNTE5MzQy
-NDgsLTc2NzMwMDYxNSwxNDgyNjU2MjgyLDEyMjcwNDE5NDldfQ
-==
+eyJoaXN0b3J5IjpbMTQ4MDQ2MDI4NCwtMTY2MTA0NTA2LDE5MT
+ExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4NTIwMDIsLTc2NzY0NzQ4
+MSwtMTE1MTkzNDI0OCwtNzY3MzAwNjE1LDE0ODI2NTYyODIsMT
+IyNzA0MTk0OV19
 -->
