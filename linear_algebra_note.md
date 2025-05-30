@@ -161,12 +161,12 @@ $$
 	  - **注意:** 单位矩阵E通过第三种**行**变换和**列**变换得到的初等矩阵是不一样的，即：
 		  - $E(kr_i + r_j) \neq E(kc_i + c_j)$
 
-- **性质1** 
+- **性质1** （左右乘）
 	- 用初等矩阵**左**乘$A$相当于对A做同种的初等**行**变换。如：对$A_{m \times n}$ **左**乘$m$阶初等矩阵$P_m$，相当于对其做相应的初等**行**变换:
 		- $P_m A_{m \times n} \overset{r} \sim A_{m \times n}$
 	- 用初等矩阵**右**乘A，相当于对A做同种的初等列变换。如：对$A_{m \times n}$ **右**乘$n$阶初等矩阵$Q_n$，相当于对其做相应的初等**列**变换：
 		- $A_{m \times n}P_n \overset{c} \sim A_{m \times n}$
-- **性质2**
+- **性质2** (可逆性质)
 	- 方阵$A$可逆的充要条件是存在**有限个**初等矩阵$P_1, P_2, \ldots, P_l$, 使$A=P_1P_2 \ldots P_l$.
 - **推论**
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
@@ -176,7 +176,7 @@ $$
 	- $[E(ki+j)]^T = E(kj+i)$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTg3OTUzOCwtMTI2MDg1MjAwMiwtNz
+eyJoaXN0b3J5IjpbMTQ0NDA2MjgxOSwtMTI2MDg1MjAwMiwtNz
 Y3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2MTUsMTQ4MjY1
 NjI4MiwxMjI3MDQxOTQ5XX0=
 -->
