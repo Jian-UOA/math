@@ -309,10 +309,12 @@ $$
 		\right]
 $$
 $$
-\because 
+\because A \overset{r} \sim E \\
+\therefore A可逆\\
+\therefore 方程组有解，ji
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4MjA4MDkxLDE0MzA4NDY2MDQsLTk0Nj
+eyJoaXN0b3J5IjpbNjAxMzQxNjE3LDE0MzA4NDY2MDQsLTk0Nj
 cyNDQzOSwyMDA4MDY5NjkxLDc3NDcxODQ0NywxMTIyNTQ4Mzc2
 LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMj
 IzODQzNTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMzI0NDk0
