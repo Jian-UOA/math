@@ -162,15 +162,15 @@ $$
 		  - $E(kr_i + r_j) \neq E(kc_i + c_j)$
 
 - **性质1(变换性质)** 
-	- 用初等矩阵**左**乘$A$相当于对A做同种的初等**行**变换。如：对$A_{m \times n}$ **左**乘$m$阶初等矩阵$P_m$，相当于对其做相应的初等**行**变换:
+	- 用初等矩阵**左**乘$A$相当于对A做**同种**的初等**行**变换。如：对$A_{m \times n}$ **左**乘$m$阶初等矩阵$P_m$，相当于对其做相应的初等**行**变换:
 		- $P_m A_{m \times n} \overset{r} \sim A_{m \times n}$
 	- 用初等矩阵**右**乘A，相当于对A做同种的初等列变换。如：对$A_{m \times n}$ **右**乘$n$阶初等矩阵$Q_n$，相当于对其做相应的初等**列**变换：
 		- $A_{m \times n}P_n \overset{c} \sim A_{m \times n}$
-- **性质2(转置性质)** 初等矩阵的**转置**仍是 **初等矩阵**
+- **性质2(转置性质)** 初等矩阵的**转置**仍是 **同种**的初等矩阵
 	- $[E(i\leftrightarrow j)]^T = E(i\leftrightarrow j)$
 	- $[E(i(k))]^T = E(i(k))$
 	- $[E(ij(k))]^T = E(ji(k))$
-- **性质3(可逆性质)** 初等矩阵均可逆，其逆阵也是同种的初阵
+- **性质3(可逆性质)** 初等矩阵均可逆，其逆阵也是**同种**的初阵
 	- 第1种初等矩阵的行列式等于$-1 \neq 0$，故可逆。其逆矩阵等于它本身，即：
 		- $[E(i \leftrightarrow j)]^{-1} = E(i \leftrightarrow j)$
 	- 第2种初等矩阵的行列式等于所乘系数$k \neq 0$，故可逆。其逆矩阵等于它本身：
@@ -183,7 +183,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxNDg5OTY0LC0xMjYwODUyMDAyLC03Nj
-c2NDc0ODEsLTExNTE5MzQyNDgsLTc2NzMwMDYxNSwxNDgyNjU2
-MjgyLDEyMjcwNDE5NDldfQ==
+eyJoaXN0b3J5IjpbMTY0OTI1NzEwNSw5NDE0ODk5NjQsLTEyNj
+A4NTIwMDIsLTc2NzY0NzQ4MSwtMTE1MTkzNDI0OCwtNzY3MzAw
+NjE1LDE0ODI2NTYyODIsMTIyNzA0MTk0OV19
 -->
