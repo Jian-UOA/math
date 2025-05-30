@@ -164,7 +164,7 @@ $$
 - **性质1(变换性质)** 
 	- 用初等矩阵**左**乘$A$相当于对A做**同种**的初等**行**变换。如：对$A_{m \times n}$ **左**乘$m$阶初等矩阵$P_m$，相当于对其做相应的初等**行**变换:
 		- $P_m A_{m \times n} \overset{r} \sim A_{m \times n}$
-	- 用初等矩阵**右**乘A，相当于对A做同种的初等列变换。如：对$A_{m \times n}$ **右**乘$n$阶初等矩阵$Q_n$，相当于对其做相应的初等**列**变换：
+	- 用初等矩阵**右**乘$A$，相当于对$A$做**同种**的初等**列**变换。如：对$A_{m \times n}$ **右**乘$n$阶初等矩阵$Q_n$，相当于对其做相应的初等**列**变换：
 		- $A_{m \times n}P_n \overset{c} \sim A_{m \times n}$
 - **性质2(转置性质)** 初等矩阵的**转置**仍是 **同种**的初等矩阵
 	- $[E(i\leftrightarrow j)]^T = E(i\leftrightarrow j)$
@@ -183,7 +183,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTI1NzEwNSw5NDE0ODk5NjQsLTEyNj
-A4NTIwMDIsLTc2NzY0NzQ4MSwtMTE1MTkzNDI0OCwtNzY3MzAw
-NjE1LDE0ODI2NTYyODIsMTIyNzA0MTk0OV19
+eyJoaXN0b3J5IjpbMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MD
+g1MjAwMiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2
+MTUsMTQ4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
 -->
