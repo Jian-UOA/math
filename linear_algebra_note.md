@@ -176,14 +176,14 @@ $$
 	- 第2种初等矩阵的行列式等于所乘系数$k \neq 0$，故可逆。其逆矩阵等于它本身：
 		- $[E(ki)]^{-1} = E(ki)$
 	- 第3种初等矩阵的行列式等于$1 \neq 0$，故可逆
-		- $[E(ki+j)]{-1} = E()$
+		- $[E(ki+j)]{-1} = E(-ki+j)$
 	- 方阵$A$可逆的充要条件是存在**有限个**初等矩阵$P_1, P_2, \ldots, P_l$, 使$A=P_1P_2 \ldots P_l$.
 - **推论**
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3NjIzODkxLC0xMjYwODUyMDAyLC03Nj
-c2NDc0ODEsLTExNTE5MzQyNDgsLTc2NzMwMDYxNSwxNDgyNjU2
-MjgyLDEyMjcwNDE5NDldfQ==
+eyJoaXN0b3J5IjpbMTM4MDg2NzUwMSwtMTI2MDg1MjAwMiwtNz
+Y3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2MTUsMTQ4MjY1
+NjI4MiwxMjI3MDQxOTQ5XX0=
 -->
