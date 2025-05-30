@@ -324,8 +324,10 @@ $$
 ## 3.2 矩阵的秩
 ### 3.2.1 定义4 
 $在m \times n 矩阵A中，任取k行与k列(k \leq m, k \leq n )， 位于这些行列交叉处的k^2个元素，不改变它们在A中所处的位置次序而得的k阶行列式，称为$ **矩阵$A$的$k$阶子式**.
+
+$A_{m \times n}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkxNDE5ODIsNjgwNDAwMjc3LDE0Mz
+eyJoaXN0b3J5IjpbLTE5MDQwODM0NDksNjgwNDAwMjc3LDE0Mz
 A4NDY2MDQsLTk0NjcyNDQzOSwyMDA4MDY5NjkxLDc3NDcxODQ0
 NywxMTIyNTQ4Mzc2LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMT
 A1OTU4Mzc5LC0xMjIzODQzNTE0LDIxMDY5Njg3OTcsMjA4NjU4
