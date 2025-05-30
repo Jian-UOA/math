@@ -173,14 +173,14 @@ $$
 - **性质3(可逆性质)** 初等矩阵均可逆，其逆阵也是同种的初阵
 	- 第1种初等矩阵的行列式等于$-1 \neq 0$，故可逆
 	- 第2种初等矩阵的行列式等于所乘系数$k \neq 0$，故可逆
-	- 
+	- 第3种初等矩阵的行列式等于$1 \neq 0$，gu
 	- 方阵$A$可逆的充要条件是存在**有限个**初等矩阵$P_1, P_2, \ldots, P_l$, 使$A=P_1P_2 \ldots P_l$.
 - **推论**
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQwMTc3NjEsLTEyNjA4NTIwMDIsLT
+eyJoaXN0b3J5IjpbLTE1MTUxNTE1OTksLTEyNjA4NTIwMDIsLT
 c2NzY0NzQ4MSwtMTE1MTkzNDI0OCwtNzY3MzAwNjE1LDE0ODI2
 NTYyODIsMTIyNzA0MTk0OV19
 -->
