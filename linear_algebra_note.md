@@ -323,9 +323,9 @@ x=A^{-1}b=
 $$
 ## 3.2 矩阵的秩
 ### 3.2.1 定义4 
-$在m \times n 矩阵A中，任取k行与k列(k \leq m, k \leq n )， 位于这些行列交叉处的k^2个元素，$
+$在m \times n 矩阵A中，任取k行与k列(k \leq m, k \leq n )， 位于这些行列交叉处的k^2个元素，不改变它们在A中所处的位置次序而得的k阶行列式，称为$ **矩阵$A$的$k$阶子式**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTEwNDIzLDY4MDQwMDI3NywxNDMwOD
+eyJoaXN0b3J5IjpbMjIyNzM2NTgwLDY4MDQwMDI3NywxNDMwOD
 Q2NjA0LC05NDY3MjQ0MzksMjAwODA2OTY5MSw3NzQ3MTg0NDcs
 MTEyMjU0ODM3NiwxNTA1MjA0MTY5LC04MjA3NDI0ODcsLTEwNT
 k1ODM3OSwtMTIyMzg0MzUxNCwyMTA2OTY4Nzk3LDIwODY1ODYx
