@@ -184,12 +184,13 @@ $$
 - **课本性质2** 方阵$A$可逆的**充要**条件是存在**有限个**初等矩阵$P_1, P_2, \ldots, P_l$, 使$A=P_1P_2 \ldots P_l$. 即：
 	- $A$可逆 $\Leftrightarrow \exist 初阵P_1, P_2, \dots, P_l, 使 A=P_1P_2 \ldots P_l$
 - **课本推论**
-	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
+	-  方阵A可逆的**充要条件是 $A \overset{r} \sim E$.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjk2ODc5NywyMDg2NTg2MTc4LDEzMj
-Q0OTQ0NzMsLTE2NjEwNDUwNiwxOTExMTI0NzcsOTQxNDg5OTY0
-LC0xMjYwODUyMDAyLC03Njc2NDc0ODEsLTExNTE5MzQyNDgsLT
-c2NzMwMDYxNSwxNDgyNjU2MjgyLDEyMjcwNDE5NDldfQ==
+eyJoaXN0b3J5IjpbMTk4NjMzNzQzNywyMTA2OTY4Nzk3LDIwOD
+Y1ODYxNzgsMTMyNDQ5NDQ3MywtMTY2MTA0NTA2LDE5MTExMjQ3
+Nyw5NDE0ODk5NjQsLTEyNjA4NTIwMDIsLTc2NzY0NzQ4MSwtMT
+E1MTkzNDI0OCwtNzY3MzAwNjE1LDE0ODI2NTYyODIsMTIyNzA0
+MTk0OV19
 -->
