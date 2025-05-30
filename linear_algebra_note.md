@@ -208,13 +208,13 @@ $$
 	1&1&-2\\
 	4&-6&2
 	\end{bmatrix}
-	$$ 的行最简形矩阵为F，求F，bing'qiu'yi'ge'ke'ni'ju'zhen
+	$$ $的行最简形矩阵为F，求F，并求一个可逆矩阵P，使PA=F$.
 - **课本例2：求$A^{-1}$**
 	- $(A, E) \overset{r} \sim (F, P), 当F=E时，P=A^{-1}$
 	- 解释：由上面“*求可逆矩阵$P$”的过程知，在$(A, E) \overset{r} \sim (F, P)$中，F是行最简形矩阵，若$F=E$，由上面的推论知$A$可逆，且由$PA=F=E$可知，$P$为A的逆矩阵，即$P=A^{-1}$。
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTg3MzA0ODYsMTEyMjU0ODM3NiwxNT
+eyJoaXN0b3J5IjpbLTE1NjE4MDE5MzcsMTEyMjU0ODM3NiwxNT
 A1MjA0MTY5LC04MjA3NDI0ODcsLTEwNTk1ODM3OSwtMTIyMzg0
 MzUxNCwyMTA2OTY4Nzk3LDIwODY1ODYxNzgsMTMyNDQ5NDQ3My
 wtMTY2MTA0NTA2LDE5MTExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4
