@@ -284,13 +284,13 @@ $$
 	- **课本例4：** 求解线性方程组
 		$$
 		\begin{cases}
-		\txet{ } x_1-x_2-x_3&=2\\
-		2x_1-x_2-3x_3&=1\\
-		3x_1+2x_2-5x_3&=0.
+		\text{ }\text{ }x_1-\text{ }\text{ }x_2-\text{ }\text{ }x_3=2\\
+		2x_1-\text{ }\text{ }x_2-3x_3=1\\
+		3x_1+2x_2-5x_3=0.
 		\end{cases}
 		$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTMyODcxMSwtOTQ2NzI0NDM5LDIwMD
+eyJoaXN0b3J5IjpbMTQzMDg0NjYwNCwtOTQ2NzI0NDM5LDIwMD
 gwNjk2OTEsNzc0NzE4NDQ3LDExMjI1NDgzNzYsMTUwNTIwNDE2
 OSwtODIwNzQyNDg3LC0xMDU5NTgzNzksLTEyMjM4NDM1MTQsMj
 EwNjk2ODc5NywyMDg2NTg2MTc4LDEzMjQ0OTQ0NzMsLTE2NjEw
