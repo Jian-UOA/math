@@ -174,9 +174,10 @@ $$
 	- 初等矩阵的转置**仍是**初等矩阵
 		- $[E(i\leftrightarrow j)]^T = E(i\leftrightarrow j)$
 		- $[E(ki)]^T = E(ki)$
-		- $[E(ki+)]$
+		- $[E(ki+j)]^T = E(kj+i)$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Njk5MTc5OCwtNzY3NjQ3NDgxLC0xMT
-UxOTM0MjQ4LC03NjczMDA2MTUsMTQ4MjY1NjI4MiwxMjI3MDQx
-OTQ5XX0=
+eyJoaXN0b3J5IjpbLTEyNjA4NTIwMDIsLTc2NzY0NzQ4MSwtMT
+E1MTkzNDI0OCwtNzY3MzAwNjE1LDE0ODI2NTYyODIsMTIyNzA0
+MTk0OV19
 -->
