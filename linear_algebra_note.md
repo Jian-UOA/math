@@ -189,17 +189,19 @@ $$
 
 * *求可逆矩阵P: 
 $$
-$PA=B \Leftrightarrow$
-\begin{case}
-PA=B
+PA=B \Leftrightarrow
+\begin{cases}
+PA=B\\
 PE=P
-\end{case}
+\end{cases}
+\Leftrightarrow
+P(A, E)=(PA, PE)=(B, P) 
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY3OTMwNTMsLTEyMjM4NDM1MTQsMj
-EwNjk2ODc5NywyMDg2NTg2MTc4LDEzMjQ0OTQ0NzMsLTE2NjEw
-NDUwNiwxOTExMTI0NzcsOTQxNDg5OTY0LC0xMjYwODUyMDAyLC
-03Njc2NDc0ODEsLTExNTE5MzQyNDgsLTc2NzMwMDYxNSwxNDgy
-NjU2MjgyLDEyMjcwNDE5NDldfQ==
+eyJoaXN0b3J5IjpbMTMxNjgyNTIsLTEyMjM4NDM1MTQsMjEwNj
+k2ODc5NywyMDg2NTg2MTc4LDEzMjQ0OTQ0NzMsLTE2NjEwNDUw
+NiwxOTExMTI0NzcsOTQxNDg5OTY0LC0xMjYwODUyMDAyLC03Nj
+c2NDc0ODEsLTExNTE5MzQyNDgsLTc2NzMwMDYxNSwxNDgyNjU2
+MjgyLDEyMjcwNDE5NDldfQ==
 -->
