@@ -147,7 +147,8 @@ $$
 	  - $A \overset{r} \sim B \Leftrightarrow P=P_s \dots P_1, PA=B$，其中：
 		  - $(P_s \dots P_1)^{-1} = P_1^{-1} \dots P_s^{-1}$
 		  - $|P|=|P_s| \dots |P_1| \neq 0$
-  - (ii) $A \overset{c} \sim B$ 的充分必要条件是存在$n$阶可逆矩阵$Q=Q_1 \dots Q_t$，使得$AQ=B$；
+  - (ii) $A \overset{c} \sim B$ 的充分必要条件是存在$n$阶可逆矩阵$Q=Q_1 \dots Q_t$，使得$AQ=B$；即：
+	  - $A \overset{c}B \Leftrightarrow Q=Q1 \dots Q_t, $
   - (iii) $A \sim B$ 的充分必要条件是存在$m$阶可逆矩阵$P$及n阶可逆矩阵$Q$， 使得$PAQ=B$。即：
 	  - $A \sim B, P_s \dots P_1AQ_1 \dots Q_t, PAQ=B$
 
@@ -186,8 +187,8 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE2MDkxNDMsMTMyNDQ5NDQ3MywtMT
-Y2MTA0NTA2LDE5MTExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4NTIw
-MDIsLTc2NzY0NzQ4MSwtMTE1MTkzNDI0OCwtNzY3MzAwNjE1LD
-E0ODI2NTYyODIsMTIyNzA0MTk0OV19
+eyJoaXN0b3J5IjpbMTY5NDY4OTk0OSwxMzI0NDk0NDczLC0xNj
+YxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1MjAw
+MiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2MTUsMT
+Q4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
 -->
