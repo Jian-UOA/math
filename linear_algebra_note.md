@@ -222,6 +222,7 @@ $$
 	\end{matrix} \right]
 	$$, 证明$A$可逆，并求$A^{-1}$。
 - **解矩阵方程$AX=B$**
+- 
 	- **思路1:**
 	$$
 	(A, E) \overset{r} \sim (E, A^{-1}) \Rightarrow A^{-1}，\\
@@ -229,27 +230,12 @@ $$
 	A^{-1}AX=A^{-1}B \\
 	\Rightarrow X=A^{-1}B
 	$$
-	- **课本例3:**
-	求解矩阵方程$AX=B$，其中
-	$$
-	A=
-	\left[\begin{matrix}
-	2 & 1 & -3\\
-	1 & 2 & -2\\
-	-1 & 3 & 2
-	\end{matrix}\right],
-	B=
-	\left[\begin{matrix}
-	1 & -1\\
-	2 & 0\\
-	-2 & 5
-	\end{matrix}\right].
-	$$
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0NzE4NDQ3LDExMjI1NDgzNzYsMTUwNT
-IwNDE2OSwtODIwNzQyNDg3LC0xMDU5NTgzNzksLTEyMjM4NDM1
-MTQsMjEwNjk2ODc5NywyMDg2NTg2MTc4LDEzMjQ0OTQ0NzMsLT
-E2NjEwNDUwNiwxOTExMTI0NzcsOTQxNDg5OTY0LC0xMjYwODUy
-MDAyLC03Njc2NDc0ODEsLTExNTE5MzQyNDgsLTc2NzMwMDYxNS
-wxNDgyNjU2MjgyLDEyMjcwNDE5NDldfQ==
+eyJoaXN0b3J5IjpbMjEwODM2MDQ3Nyw3NzQ3MTg0NDcsMTEyMj
+U0ODM3NiwxNTA1MjA0MTY5LC04MjA3NDI0ODcsLTEwNTk1ODM3
+OSwtMTIyMzg0MzUxNCwyMTA2OTY4Nzk3LDIwODY1ODYxNzgsMT
+MyNDQ5NDQ3MywtMTY2MTA0NTA2LDE5MTExMjQ3Nyw5NDE0ODk5
+NjQsLTEyNjA4NTIwMDIsLTc2NzY0NzQ4MSwtMTE1MTkzNDI0OC
+wtNzY3MzAwNjE1LDE0ODI2NTYyODIsMTIyNzA0MTk0OV19
 -->
