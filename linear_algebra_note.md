@@ -247,42 +247,41 @@ $$
 	$$
 	- **思路2：** 
 		$$
-由(A, B)=
-\left[
-\begin{array}{ccc:cc}
-2 & 1 & -3 & 1 & -1\\
-1 & 2 & -2 & 2 & 0\\
--1 & 3 & 2 & -2 & 5
-\end{array}
-\right]
-\overset{r} \sim 
-\left[
-\begin{array}{ccc:cc}
-1 & 0 & 0 &-4 & 2\\
-0 & 1 & 0 & 0 & 1\\
-0 & 0 & 1 & -3 & 2
-\end{array}
-\right]
-$$ 
-$$可见
-A \overset{r} \sim E，因此A可逆，且
-X=A^{-1}B=
-\left[\begin{matrix}
--4 & 2\\
-0 & 1\\
--3 & 2
-\end{matrix}\right]
-即为所给方程的唯一解。
-$$ 
-
-|前提|推导|
+		由(A, B)=
+		\left[
+		\begin{array}{ccc:cc}
+		2 & 1 & -3 & 1 & -1\\
+		1 & 2 & -2 & 2 & 0\\
+		-1 & 3 & 2 & -2 & 5
+		\end{array}
+		\right]
+		\overset{r} \sim 
+		\left[
+		\begin{array}{ccc:cc}
+		1 & 0 & 0 &-4 & 2\\
+		0 & 1 & 0 & 0 & 1\\
+		0 & 0 & 1 & -3 & 2
+		\end{array}
+		\right]
+		$$ 
+		$$可见
+		A \overset{r} \sim E，因此A可逆，且
+		X=A^{-1}B=
+		\left[\begin{matrix}
+		-4 & 2\\
+		0 & 1\\
+		-3 & 2
+		\end{matrix}\right]
+		即为所给方程的唯一解。
+		$$
+	-  |前提|推导|
 |:----:|:----:|
 |$A^{-1}A=E$ <br> $X=A^{-1}B$ | $P_1 \dots P_sA=E$ <br> $P_1 \dots P_sB=X$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwMzYzODgzLDc3NDcxODQ0NywxMTIyNT
-Q4Mzc2LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5
-LC0xMjIzODQzNTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMz
-I0NDk0NDczLC0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2
-NCwtMTI2MDg1MjAwMiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC
-03NjczMDA2MTUsMTQ4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
+eyJoaXN0b3J5IjpbMTg2MzQ3MDk3MCw3NzQ3MTg0NDcsMTEyMj
+U0ODM3NiwxNTA1MjA0MTY5LC04MjA3NDI0ODcsLTEwNTk1ODM3
+OSwtMTIyMzg0MzUxNCwyMTA2OTY4Nzk3LDIwODY1ODYxNzgsMT
+MyNDQ5NDQ3MywtMTY2MTA0NTA2LDE5MTExMjQ3Nyw5NDE0ODk5
+NjQsLTEyNjA4NTIwMDIsLTc2NzY0NzQ4MSwtMTE1MTkzNDI0OC
+wtNzY3MzAwNjE1LDE0ODI2NTYyODIsMTIyNzA0MTk0OV19
 -->
