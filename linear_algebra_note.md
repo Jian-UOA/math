@@ -310,11 +310,15 @@ $$
 $$
 $$
 \because A \overset{r} \sim E \\
-\therefore A可逆\\
-\therefore 方程组有解，ji
+\therefore A可逆 \\
+\therefore 方程组有解，解为：
+X=A^{-1}b=
+\left[
+\begin{matrix}
+
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMzQxNjE3LDE0MzA4NDY2MDQsLTk0Nj
+eyJoaXN0b3J5IjpbNjgxNTgyOTcyLDE0MzA4NDY2MDQsLTk0Nj
 cyNDQzOSwyMDA4MDY5NjkxLDc3NDcxODQ0NywxMTIyNTQ4Mzc2
 LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMj
 IzODQzNTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMzI0NDk0
