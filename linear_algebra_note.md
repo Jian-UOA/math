@@ -201,12 +201,12 @@ P(A, E)=(PA, PE)=(B, P)
 $$
 	- 当$F$中有**0行**时(A行满秩)，$P$ **不**唯一，否则(A不是行满秩)$P$ **唯一**。
 - **求$A^{-1}$**
-	- 由上面“*求可逆矩阵$P$”的过程知，在$(A, E) \overset{r} \sim (F, P)$中，F是行最简形矩阵，若$F=E$，由上面的推论知$A$可逆，且由$PA=F=E$可知，
+	- 由上面“*求可逆矩阵$P$”的过程知，在$(A, E) \overset{r} \sim (F, P)$中，F是行最简形矩阵，若$F=E$，由上面的推论知$A$可逆，且由$PA=F=E$可知，$P$为A的逆矩阵，即$P=A^{-1}$。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODYwNzQyMzcsMTUwNTIwNDE2OSwtOD
-IwNzQyNDg3LC0xMDU5NTgzNzksLTEyMjM4NDM1MTQsMjEwNjk2
-ODc5NywyMDg2NTg2MTc4LDEzMjQ0OTQ0NzMsLTE2NjEwNDUwNi
-wxOTExMTI0NzcsOTQxNDg5OTY0LC0xMjYwODUyMDAyLC03Njc2
-NDc0ODEsLTExNTE5MzQyNDgsLTc2NzMwMDYxNSwxNDgyNjU2Mj
-gyLDEyMjcwNDE5NDldfQ==
+eyJoaXN0b3J5IjpbMTc3NzI4MTUxNywxNTA1MjA0MTY5LC04Mj
+A3NDI0ODcsLTEwNTk1ODM3OSwtMTIyMzg0MzUxNCwyMTA2OTY4
+Nzk3LDIwODY1ODYxNzgsMTMyNDQ5NDQ3MywtMTY2MTA0NTA2LD
+E5MTExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4NTIwMDIsLTc2NzY0
+NzQ4MSwtMTE1MTkzNDI0OCwtNzY3MzAwNjE1LDE0ODI2NTYyOD
+IsMTIyNzA0MTk0OV19
 -->
