@@ -222,10 +222,12 @@ $$
 	\end{matrix} \right]
 	$$, 证明$A$可逆，并求$A^{-1}$。
 - **解矩阵方程**
-- 
+	- **思路1:**
+	$(A, E) \$
+	- **课本例3:**
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDgyMTI2MiwxMTIyNTQ4Mzc2LDE1MD
+eyJoaXN0b3J5IjpbLTUwODI1OTY0NSwxMTIyNTQ4Mzc2LDE1MD
 UyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQz
 NTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMzI0NDk0NDczLC
 0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1
