@@ -173,9 +173,10 @@ $$
 - 初等矩阵的**转置**性质
 	- 初等矩阵的转置**仍是**初等矩阵
 		- $[E(i,j)]^T = E(i,j)$
-		- $[E(ki)]^T$
+		- $[E(i(k))]^T = E(i(k))$
+		- $[E]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk5ODgzMjksLTc2NzY0NzQ4MSwtMT
+eyJoaXN0b3J5IjpbLTE4NzE2NTQ0NDAsLTc2NzY0NzQ4MSwtMT
 E1MTkzNDI0OCwtNzY3MzAwNjE1LDE0ODI2NTYyODIsMTIyNzA0
 MTk0OV19
 -->
