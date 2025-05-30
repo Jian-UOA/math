@@ -162,7 +162,7 @@ $$
 		  - $E(kr_i + r_j) \neq E(kc_i + c_j)$
 
 - **性质1** 
-	- 对$A_{m \times n}$ **左**乘$m$阶初等矩阵$P_m$，相当于对其做相应的初等**行**变换；
+	- 用初等矩阵左乘A相当于对A做对$A_{m \times n}$ **左**乘$m$阶初等矩阵$P_m$，相当于对其做相应的初等**行**变换；
 		- $P_m A_{m \times n} \overset{r} \sim A_{m \times n}$
 	- 对$A_{m \times n}$ **右**乘$n$阶初等矩阵$Q_n$，相当于对其做相应的初等**列**变换。
 		- $A_{m \times n}P_n \overset{c} \sim A_{m \times n}$
@@ -171,6 +171,6 @@ $$
 - **推论**
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE5MzQyNDgsLTc2NzMwMDYxNSwxND
-gyNjU2MjgyLDEyMjcwNDE5NDldfQ==
+eyJoaXN0b3J5IjpbOTg4NjE3Mzg2LC0xMTUxOTM0MjQ4LC03Nj
+czMDA2MTUsMTQ4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
 -->
