@@ -152,6 +152,7 @@ $$
 - 三种初等变换，对应有三种初等矩阵：
 
   - (i) 把单位矩阵中第i, j两行(列)对换， 得到的初等矩阵；
+	  -	通过第1中初等变换行和列变换得到的初等矩阵是一样的，即
   - (ii) 以数$k\neq 0$ 乘单位矩阵的第i行(列)， 得到的初等矩阵;
   - (iii) 以$k \neq 0$ 乘单位矩阵的第$j$行(列)加到第$i$行(列)上，得到的初等矩阵。  
 
@@ -165,6 +166,6 @@ $$
 - **推论**
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzMwMDYxNSwxNDgyNjU2MjgyLDEyMj
-cwNDE5NDldfQ==
+eyJoaXN0b3J5IjpbNjg0MzMwNzQyLC03NjczMDA2MTUsMTQ4Mj
+Y1NjI4MiwxMjI3MDQxOTQ5XX0=
 -->
