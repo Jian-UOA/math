@@ -181,13 +181,14 @@ $$
 		- $[E(i(k))]^{-1} = E(i(\frac{1}{k}))$
 	- **第3种初等矩阵**的行列式等于$1 \neq 0$，故可逆
 		- $[E(ij(k))]{-1} = E(ij(-k))$
-- **课本性质2** 方阵$A$可逆的充要条件是存在**有限个**初等矩阵$P_1, P_2, \ldots, P_l$, 使$A=P_1P_2 \ldots P_l$.
+- **课本性质2** 方阵$A$可逆的充要条件是存在**有限个**初等矩阵$P_1, P_2, \ldots, P_l$, 使$A=P_1P_2 \ldots P_l$. 即：
+	- $A$可逆 $\Leftrightarrow$ 
 - **课本推论**
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTE1NTUyOCwxMzI0NDk0NDczLC0xNj
+eyJoaXN0b3J5IjpbMTcyMjk0MTYyNiwxMzI0NDk0NDczLC0xNj
 YxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1MjAw
 MiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2MTUsMT
 Q4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
