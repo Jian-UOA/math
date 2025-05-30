@@ -209,15 +209,17 @@ $$
 	4&-6&2
 	\end{bmatrix}
 	$$ $的行最简形矩阵为F，求F，并求一个可逆矩阵P，使PA=F$.
-- **课本例2：求$A^{-1}$**
+- **求$A^{-1}$**
 	- $(A, E) \overset{r} \sim (F, P), 当F=E时，P=A^{-1}$
 	- 解释：由上面“*求可逆矩阵$P$”的过程知，在$(A, E) \overset{r} \sim (F, P)$中，F是行最简形矩阵，若$F=E$，由上面的推论知$A$可逆，且由$PA=F=E$可知，$P$为A的逆矩阵，即$P=A^{-1}$。
+	- **课本例2：**设
+	- 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE4MDE5MzcsMTEyMjU0ODM3NiwxNT
-A1MjA0MTY5LC04MjA3NDI0ODcsLTEwNTk1ODM3OSwtMTIyMzg0
-MzUxNCwyMTA2OTY4Nzk3LDIwODY1ODYxNzgsMTMyNDQ5NDQ3My
-wtMTY2MTA0NTA2LDE5MTExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4
-NTIwMDIsLTc2NzY0NzQ4MSwtMTE1MTkzNDI0OCwtNzY3MzAwNj
-E1LDE0ODI2NTYyODIsMTIyNzA0MTk0OV19
+eyJoaXN0b3J5IjpbMTIzMDk3MTg0MywxMTIyNTQ4Mzc2LDE1MD
+UyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQz
+NTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMzI0NDk0NDczLC
+0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1
+MjAwMiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2MT
+UsMTQ4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
 -->
