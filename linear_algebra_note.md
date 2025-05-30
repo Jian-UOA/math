@@ -143,7 +143,7 @@ $$
 
   此标准形由$m, n, r$三个数完全确定，其中$r$是阶梯形矩阵中非零行的行数。
 * **定理1** 设A与B均为$m \times n$的矩阵， 那么
-  - (i) $A \overset{r} \sim B$ 的充分必要条件是存在$m$阶可逆矩阵的$P$，使得$PA=B$；即：
+  - (i) $A \overset{r} \sim B$ 的充分必要条件是存在$m$阶可逆矩阵的$P=P_s \dots P_1$，使得$PA=B$；即：
 	  - $A \overset{r} \sim B \Leftrightarrow P=P_s \dots P_1, PA=B$，其中：
 		  - $(P_s \dots P_1)^{-1} = P_1^{-1} \dots P_s^{-1}$
 		  - $|P|=|P_s| \dots |P_1| \neq 0$
@@ -165,16 +165,16 @@ $$
 	  - **注意:** 单位矩阵E通过第三种**行**变换和**列**变换得到的初等矩阵是不一样的，即：
 		  - $E(kr_i + r_j) \neq E(kc_i + c_j)$
 
-- **性质1(变换性质)** 
+- **变换性质** 
 	- 用初等矩阵**左**乘$A$相当于对A做**同种**的初等**行**变换。如：对$A_{m \times n}$ **左**乘$m$阶初等矩阵$P_m$，相当于对其做相应的初等**行**变换:
 		- $P_m A_{m \times n} \overset{r} \sim A_{m \times n}$
 	- 用初等矩阵**右**乘$A$，相当于对$A$做**同种**的初等**列**变换。如：对$A_{m \times n}$ **右**乘$n$阶初等矩阵$Q_n$，相当于对其做相应的初等**列**变换：
 		- $A_{m \times n}P_n \overset{c} \sim A_{m \times n}$
-- **性质2(转置性质)** 初等矩阵的**转置**仍是 **同种**的初等矩阵
+- **转置性质** 初等矩阵的**转置**仍是 **同种**的初等矩阵
 	- $[E(i\leftrightarrow j)]^T = E(i\leftrightarrow j)$
 	- $[E(i(k))]^T = E(i(k))$
 	- $[E(ij(k))]^T = E(ji(k))$
-- **性质3(可逆性质)** 初等矩阵均可逆，其逆阵也是**同种**的初阵
+- **可逆性质** 初等矩阵均可逆，其逆阵也是**同种**的初阵
 	- 第1种初等矩阵的行列式等于$-1 \neq 0$，故可逆。其逆矩阵等于它本身，即：
 		- $[E(i \leftrightarrow j)]^{-1} = E(i \leftrightarrow j)$
 	- 第2种初等矩阵的行列式等于所乘系数$k \neq 0$，故可逆。其逆矩阵等于它本身：
@@ -187,7 +187,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjkwMzI5NiwxMzI0NDk0NDczLC0xNj
+eyJoaXN0b3J5IjpbMTI5MjYzOTIyNywxMzI0NDk0NDczLC0xNj
 YxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1MjAw
 MiwtNzY3NjQ3NDgxLC0xMTUxOTM0MjQ4LC03NjczMDA2MTUsMT
 Q4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
