@@ -185,12 +185,12 @@ $$
 	- $A$可逆 $\Leftrightarrow \exist 初阵P_1, P_2, \dots, P_l, 使 A=P_1P_2 \ldots P_l$
 - **课本推论**
 	-  方阵A可逆的**充要**条件是 $A \overset{r} \sim E$，即：
-		- $A_n可逆 \Leftrightarrow A \overset{r} \sim E$
+		- $A_n可逆 \Leftrightarrow A_n \overset{r} \sim E$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQyMzU3NTUsMjEwNjk2ODc5NywyMD
+eyJoaXN0b3J5IjpbLTEyMjM4NDM1MTQsMjEwNjk2ODc5NywyMD
 g2NTg2MTc4LDEzMjQ0OTQ0NzMsLTE2NjEwNDUwNiwxOTExMTI0
 NzcsOTQxNDg5OTY0LC0xMjYwODUyMDAyLC03Njc2NDc0ODEsLT
 ExNTE5MzQyNDgsLTc2NzMwMDYxNSwxNDgyNjU2MjgyLDEyMjcw
