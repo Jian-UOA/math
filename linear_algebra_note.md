@@ -322,16 +322,18 @@ x=A^{-1}b=
 \right]
 $$
 ## 3.2 矩阵的秩
-### 3.2.1 定义4 
+### 3.2.1 定义4 $k$阶子式
 $在m \times n 矩阵A中，任取k行与k列(k \leq m, k \leq n )， 位于这些行列交叉处的k^2个元素，不改变它们在A中所处的位置次序而得的k阶行列式，称为$ **矩阵$A$的$k$阶子式**.
 
 $A_{m \times n}$的$k$阶子式共有$C_m^k \cdot  C_n^k$个.
+### 3.2.2 引理
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU0NDgwMjYsNjgwNDAwMjc3LDE0Mz
-A4NDY2MDQsLTk0NjcyNDQzOSwyMDA4MDY5NjkxLDc3NDcxODQ0
-NywxMTIyNTQ4Mzc2LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMT
-A1OTU4Mzc5LC0xMjIzODQzNTE0LDIxMDY5Njg3OTcsMjA4NjU4
-NjE3OCwxMzI0NDk0NDczLC0xNjYxMDQ1MDYsMTkxMTEyNDc3LD
-k0MTQ4OTk2NCwtMTI2MDg1MjAwMiwtNzY3NjQ3NDgxLC0xMTUx
-OTM0MjQ4XX0=
+eyJoaXN0b3J5IjpbLTQ4NTMyNDgwOSw2ODA0MDAyNzcsMTQzMD
+g0NjYwNCwtOTQ2NzI0NDM5LDIwMDgwNjk2OTEsNzc0NzE4NDQ3
+LDExMjI1NDgzNzYsMTUwNTIwNDE2OSwtODIwNzQyNDg3LC0xMD
+U5NTgzNzksLTEyMjM4NDM1MTQsMjEwNjk2ODc5NywyMDg2NTg2
+MTc4LDEzMjQ0OTQ0NzMsLTE2NjEwNDUwNiwxOTExMTI0NzcsOT
+QxNDg5OTY0LC0xMjYwODUyMDAyLC03Njc2NDc0ODEsLTExNTE5
+MzQyNDhdfQ==
 -->
