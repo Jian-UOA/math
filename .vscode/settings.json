@@ -1,0 +1,21 @@
+{
+  // 全局关掉所有编辑器的粘性滚动
+  "editor.stickyScroll.enabled": false,
+
+  // 针对 md 文本编辑器再显式关掉
+  "[markdown]": {
+    "editor.stickyScroll.enabled": false
+  },
+
+  // 针对 Markdown Notebook 编辑器也要关掉
+  "[markdown-notebook]": {
+    "editor.stickyScroll.enabled": false
+  },
+
+  // 允许在文本末尾继续留白
+  "editor.scrollBeyondLastLine": true,
+
+  // 光标上下各留 5 行，避免跑到边缘触发滚动
+  "editor.cursorSurroundingLines": 5,
+  "editor.cursorSurroundingLinesStyle": "all"
+}
