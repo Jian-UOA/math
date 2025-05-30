@@ -170,7 +170,10 @@ $$
 	- 方阵$A$可逆的充要条件是存在**有限个**初等矩阵$P_1, P_2, \ldots, P_l$, 使$A=P_1P_2 \ldots P_l$.
 - **推论**
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
+- 初等矩阵的**转置**性质
+	- 初等矩阵的转置reng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzY0NzQ4MSwtMTE1MTkzNDI0OCwtNz
-Y3MzAwNjE1LDE0ODI2NTYyODIsMTIyNzA0MTk0OV19
+eyJoaXN0b3J5IjpbNDkzMzI0Nzg4LC03Njc2NDc0ODEsLTExNT
+E5MzQyNDgsLTc2NzMwMDYxNSwxNDgyNjU2MjgyLDEyMjcwNDE5
+NDldfQ==
 -->
