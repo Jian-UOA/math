@@ -274,12 +274,12 @@ X=A^{-1}B=
 \end{matrix}\right]
 即为所给方程的唯一解。
 $$ 
-|||
+
 |前提|推导|
 |:----:|:----:|
 |$A^{-1}A=E$ <br> $X=A^{-1}B$ | $P_1 \dots P_sA=E$ <br> $P_1 \dots P_sB=X$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzI5NjY3LDc3NDcxODQ0NywxMTIyNT
+eyJoaXN0b3J5IjpbODkwMzYzODgzLDc3NDcxODQ0NywxMTIyNT
 Q4Mzc2LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5
 LC0xMjIzODQzNTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMz
 I0NDk0NDczLC0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2
