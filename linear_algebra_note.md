@@ -158,8 +158,8 @@ $$
 	  - 在单位矩阵相同序数的**行、列**上乘以一个数，得到的矩阵是相同的，即：
 		  - $E(kr_i) = E(kc_i)$
   - (iii) 以$k \neq 0$ 乘单位矩阵的第$j$行(列)加到第$i$行(列)上，得到的初等矩阵。  
-	  - **注意:**
-		  - 单位矩阵E通过第三种**行**变换和**列**变换得到的初等矩阵
+	  - **注意:**单位矩阵E通过第三种**行**变换和**列**变换得到的初等矩阵时不一样的，即：
+		  - $E(kr_i \rightarrow r_j) \neq 
 
 - **性质1** 
 	- 对$A_{m \times n}$ **左**乘$m$阶初等矩阵$P_m$，相当于对其做相应的初等**行**变换；
@@ -171,6 +171,6 @@ $$
 - **推论**
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDUxNDEyLC03NjczMDA2MTUsMTQ4Mj
-Y1NjI4MiwxMjI3MDQxOTQ5XX0=
+eyJoaXN0b3J5IjpbLTExNzYwODU1MzYsLTc2NzMwMDYxNSwxND
+gyNjU2MjgyLDEyMjcwNDE5NDldfQ==
 -->
