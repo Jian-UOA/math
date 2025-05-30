@@ -224,14 +224,15 @@ $$
 - **解矩阵方程**
 	- **思路1:**
 	$$
-	(A, E) \overset{r} \sim (E, A^{-1}) \Rightarrow A^{-1}，对AX=B两边同乘以A^{-1}，即：
-	A^{-1}AX=A^{-1}B 
-	
+	(A, E) \overset{r} \sim (E, A^{-1}) \Rightarrow A^{-1}，\\
+	对AX=B两边同乘以A^{-1}，即：\\
+	A^{-1}AX=A^{-1}B \\
+	\Rightarrow X=A^{-1}B
 	$$
 	- **课本例3:**
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjI4ODgyNiwxMTIyNTQ4Mzc2LDE1MD
+eyJoaXN0b3J5IjpbMTEyNTg3MjQ5OSwxMTIyNTQ4Mzc2LDE1MD
 UyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQz
 NTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMzI0NDk0NDczLC
 0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1
