@@ -154,7 +154,7 @@ $$
   - (ii) 以数$k\neq 0$ 乘单位矩阵的第i行(列)， 得到的初等矩阵;
   - (iii) 以$k \neq 0$ 乘单位矩阵的第$j$行(列)加到第$i$行(列)上，得到的初等矩阵。  
 
-
+- 性质1 对$A_{m \times n}$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzA0MTk0OV19
+eyJoaXN0b3J5IjpbLTU1MTcxMDU3NiwxMjI3MDQxOTQ5XX0=
 -->
