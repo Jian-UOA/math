@@ -187,12 +187,13 @@ $$
 	-  方阵A可逆的**充要**条件是 $A \overset{r} \sim E$，即：
 		- $A_n可逆 \Leftrightarrow A_n \overset{r} \sim E$
 
-> * Blockquote
+> * 求可逆矩阵P:
+> $PA=B \Leftrightarrow $
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjI2NzYxNSwtMTIyMzg0MzUxNCwyMT
-A2OTY4Nzk3LDIwODY1ODYxNzgsMTMyNDQ5NDQ3MywtMTY2MTA0
-NTA2LDE5MTExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4NTIwMDIsLT
-c2NzY0NzQ4MSwtMTE1MTkzNDI0OCwtNzY3MzAwNjE1LDE0ODI2
-NTYyODIsMTIyNzA0MTk0OV19
+eyJoaXN0b3J5IjpbLTIwNDk3NjE4ODcsLTEyMjM4NDM1MTQsMj
+EwNjk2ODc5NywyMDg2NTg2MTc4LDEzMjQ0OTQ0NzMsLTE2NjEw
+NDUwNiwxOTExMTI0NzcsOTQxNDg5OTY0LC0xMjYwODUyMDAyLC
+03Njc2NDc0ODEsLTExNTE5MzQyNDgsLTc2NzMwMDYxNSwxNDgy
+NjU2MjgyLDEyMjcwNDE5NDldfQ==
 -->
