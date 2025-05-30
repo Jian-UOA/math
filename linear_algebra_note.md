@@ -221,7 +221,7 @@ $$
 	-2 & 3 & 0 
 	\end{matrix} \right]
 	$$, 证明$A$可逆，并求$A^{-1}$。
-- **解矩阵方程**
+- **解矩阵方程$AX=B$**
 	- **思路1:**
 	$$
 	(A, E) \overset{r} \sim (E, A^{-1}) \Rightarrow A^{-1}，\\
@@ -230,9 +230,9 @@ $$
 	\Rightarrow X=A^{-1}B
 	$$
 	- **课本例3:**
-	
+	求解矩阵方程$AX=B$，其中
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTg3MjQ5OSwxMTIyNTQ4Mzc2LDE1MD
+eyJoaXN0b3J5IjpbLTU3NjA5Mjc3MSwxMTIyNTQ4Mzc2LDE1MD
 UyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQz
 NTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMzI0NDk0NDczLC
 0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1
