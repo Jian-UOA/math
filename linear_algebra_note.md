@@ -212,16 +212,18 @@ $$
 - **求$A^{-1}$**
 	- $(A, E) \overset{r} \sim (F, P), 当F=E时，P=A^{-1}$
 	- 解释：由上面“*求可逆矩阵$P$”的过程知，在$(A, E) \overset{r} \sim (F, P)$中，F是行最简形矩阵，若$F=E$，由上面的推论知$A$可逆，且由$PA=F=E$可知，$P$为A的逆矩阵，即$P=A^{-1}$。
-	- **课本例2：**设
+	- **课本例2:** 设
 	$$
 	A=
 	\left[ \begin{matrix} 
-	1 & 2 & 3\\
-	4 & 5 & 6 \\ 7 & 8 & 9 \end{matrix} \right]
-	$$
+	0 & -2 & 1\\
+	3 & 0 & -2 \\ 
+	-2 & 3 & 0 
+	\end{matrix} \right]
+	$$, 证明Aken
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTk1MDg0OCwxMTIyNTQ4Mzc2LDE1MD
+eyJoaXN0b3J5IjpbLTk0MTkyMjA1NSwxMTIyNTQ4Mzc2LDE1MD
 UyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQz
 NTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMzI0NDk0NDczLC
 0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1
