@@ -155,8 +155,9 @@ $$
   - (iii) 以$k \neq 0$ 乘单位矩阵的第$j$行(列)加到第$i$行(列)上，得到的初等矩阵。  
 
 - **性质1** 
-	- 对$A_{m \times n}$ **左**乘$m$阶初等矩阵，相当于对其做相应的初等**行**变换；
+	- 对$A_{m \times n}$ **左**乘$m$阶初等矩阵$P_m$，相当于对其做相应的初等**行**变换；
+	$P_m A_{m \times n}$
 	- 对$A_{m \times n}$ **右**乘$n$阶初等矩阵，相当于对其做相应的初等**列**变换。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzcyNTU1OCwxMjI3MDQxOTQ5XX0=
+eyJoaXN0b3J5IjpbLTE0MjY2NDM3MTEsMTIyNzA0MTk0OV19
 -->
