@@ -116,7 +116,8 @@ $$
   =B_5
   $$
 * 结论
-  任何非零矩阵$A_{m \times n}$，总可经有限次初等变换，把它变为行阶梯形矩阵和行最简形矩阵。
+  - 任何非零矩阵$A_{m \times n}$，总可经有限次初等变换，把它变为行阶梯形矩阵和行最简形矩阵。
+  - 行最简形矩阵是唯一的。
 * **标准形矩阵**
   对行最简形矩阵再施以初等变换，将其变为左上角是单位矩阵，其余元全为0的矩阵$F$，该矩阵称为标准型。
 
@@ -164,5 +165,6 @@ $$
 - **推论**
 	-  方阵A可逆的充要条件是 $A \overset{r} \sim E$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjY1NjI4MiwxMjI3MDQxOTQ5XX0=
+eyJoaXN0b3J5IjpbLTE3MzMxNjYzMjIsMTQ4MjY1NjI4MiwxMj
+I3MDQxOTQ5XX0=
 -->
