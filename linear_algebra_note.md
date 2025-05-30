@@ -327,13 +327,13 @@ $在m \times n 矩阵A中，任取k行与k列(k \leq m, k \leq n )， 位于这�
 
 $A_{m \times n}$的$k$阶子式共有$C_m^k \cdot  C_n^k$个.
 ### 3.2.2 引理
-
+**设$A \overset{r} \sim B$，则$A$与$B$中fei'ling'zi'shi'de'zui'gao'jie'shu'xiang'degn**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTMyNDgwOSw2ODA0MDAyNzcsMTQzMD
-g0NjYwNCwtOTQ2NzI0NDM5LDIwMDgwNjk2OTEsNzc0NzE4NDQ3
-LDExMjI1NDgzNzYsMTUwNTIwNDE2OSwtODIwNzQyNDg3LC0xMD
-U5NTgzNzksLTEyMjM4NDM1MTQsMjEwNjk2ODc5NywyMDg2NTg2
-MTc4LDEzMjQ0OTQ0NzMsLTE2NjEwNDUwNiwxOTExMTI0NzcsOT
-QxNDg5OTY0LC0xMjYwODUyMDAyLC03Njc2NDc0ODEsLTExNTE5
-MzQyNDhdfQ==
+eyJoaXN0b3J5IjpbODY5NzA0NTM2LDY4MDQwMDI3NywxNDMwOD
+Q2NjA0LC05NDY3MjQ0MzksMjAwODA2OTY5MSw3NzQ3MTg0NDcs
+MTEyMjU0ODM3NiwxNTA1MjA0MTY5LC04MjA3NDI0ODcsLTEwNT
+k1ODM3OSwtMTIyMzg0MzUxNCwyMTA2OTY4Nzk3LDIwODY1ODYx
+NzgsMTMyNDQ5NDQ3MywtMTY2MTA0NTA2LDE5MTExMjQ3Nyw5ND
+E0ODk5NjQsLTEyNjA4NTIwMDIsLTc2NzY0NzQ4MSwtMTE1MTkz
+NDI0OF19
 -->
