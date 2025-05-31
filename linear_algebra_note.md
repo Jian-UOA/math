@@ -396,17 +396,18 @@ $这是因为，按本例的结论，这时有r(B)=0， 故B=O. 这一结论通�
 - **例9方阵结论** **若$A$为$n$阶方阵，且$r(A)=n$，则$A$可逆，则$r(B)=r(AB)=r(C)$**
 
 ## 3.3 线性方程组的解
-### 3.3.1定理3 $n$元线性方程组$Ax=b$
-- ① 当$r(A) = r(\overset{-} A)=n$时，有唯一解；
-- ② 当$r(A) = r(\overset{-}A)<n$时，无穷多解；
-- ③ 当$r(A) \neq r(\overset{-}A)$时，无解。
-- 
+### 3.3.1定理3 
+- **$n$元线性方程组$Ax=b$**
+	- ① 当$r(A) = r(\overset{-} A)=n$时，有唯一解；
+	- ② 当$r(A) = r(\overset{-}A)<n$时，无穷多解；
+	- ③ 当$r(A) \neq r(\overset{-}A)$时，无解。
+- **$n$元线性方程组$Ax=b$**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk2MzExMzQsNTM2MDY0NDg3LDI0MT
-k0NDM0NiwtMTI5MzQ4MzAyOCwtOTUwOTY5MTcwLDIwMzQwMDYz
-NzcsMTIwOTE3NDEzOSw0NzE0NzQ4OTEsLTQ0OTQ0NzA1NywtMT
-I4NTA3MjIwMCwtMTQwNDU2OTMwMCwxNTY2NjcxMzE3LC0zODU4
-MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2MDQsLTk0NjcyNDQzOS
-wyMDA4MDY5NjkxLDc3NDcxODQ0NywxMTIyNTQ4Mzc2LDE1MDUy
-MDQxNjldfQ==
+eyJoaXN0b3J5IjpbMTIyMTk3NTY4MCw1MzYwNjQ0ODcsMjQxOT
+Q0MzQ2LC0xMjkzNDgzMDI4LC05NTA5NjkxNzAsMjAzNDAwNjM3
+NywxMjA5MTc0MTM5LDQ3MTQ3NDg5MSwtNDQ5NDQ3MDU3LC0xMj
+g1MDcyMjAwLC0xNDA0NTY5MzAwLDE1NjY2NzEzMTcsLTM4NTgw
+MjU3MCw2ODA0MDAyNzcsMTQzMDg0NjYwNCwtOTQ2NzI0NDM5LD
+IwMDgwNjk2OTEsNzc0NzE4NDQ3LDExMjI1NDgzNzYsMTUwNTIw
+NDE2OV19
 -->
