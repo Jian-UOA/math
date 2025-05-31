@@ -350,7 +350,7 @@ $\therefore 可得$
 $①0\leq r(A_{m \times n}) \leq min\{m, n\}.$
 $②r(A^T)=r(A).$
 $③A \sim B \Leftrightarrow r(A)=r(B).$
-$④若P、Q可逆，则r(A)=rr(PAQ).$
+$④若P、Q可逆，则r(A)=r(PA)=r(AQ)=r(PAQ).$
 $⑤max\{r(A), r(B)\} \leq r(A, B) \leq r(A)+r(B).$
 $⑥r(A+B) \leq r(A) + r(B).$
 $⑦R(AB) \leq min\{r(A), r(B)\}$
@@ -387,11 +387,11 @@ $这是因为，按本例的结论，这时有r(B)=0， 故B=O. 这一结论通�
 
 ## 3.3 线性方程组的解
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODQ1NDYwLC0xMjg1MDcyMjAwLC0xND
-A0NTY5MzAwLDE1NjY2NzEzMTcsLTM4NTgwMjU3MCw2ODA0MDAy
-NzcsMTQzMDg0NjYwNCwtOTQ2NzI0NDM5LDIwMDgwNjk2OTEsNz
-c0NzE4NDQ3LDExMjI1NDgzNzYsMTUwNTIwNDE2OSwtODIwNzQy
-NDg3LC0xMDU5NTgzNzksLTEyMjM4NDM1MTQsMjEwNjk2ODc5Ny
-wyMDg2NTg2MTc4LDEzMjQ0OTQ0NzMsLTE2NjEwNDUwNiwxOTEx
-MTI0NzddfQ==
+eyJoaXN0b3J5IjpbMTY0MTQxNTIzMywtMTI4NTA3MjIwMCwtMT
+QwNDU2OTMwMCwxNTY2NjcxMzE3LC0zODU4MDI1NzAsNjgwNDAw
+Mjc3LDE0MzA4NDY2MDQsLTk0NjcyNDQzOSwyMDA4MDY5NjkxLD
+c3NDcxODQ0NywxMTIyNTQ4Mzc2LDE1MDUyMDQxNjksLTgyMDc0
+MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQzNTE0LDIxMDY5Njg3OT
+csMjA4NjU4NjE3OCwxMzI0NDk0NDczLC0xNjYxMDQ1MDYsMTkx
+MTEyNDc3XX0=
 -->
