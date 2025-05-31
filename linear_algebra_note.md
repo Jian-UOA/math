@@ -408,13 +408,13 @@ $这是因为，按本例的结论，这时有r(B)=0， 故B=O. 这一结论通�
 	- $r(A)<n$时，有无穷多非0解.
 
 **\*Note:** 如果只是判断方程组有解还是误解，只将$\overset{-}A$划至$\tilde A$即可；若要求出解，必须划至**行最简形矩阵**。
-设$r(A)=r(\overset{-}A)=r$，把**行最简形**中$r$个非零行的首非零元所对应的未知数取作非自由未知数，其余$n-r$个未知数取作自由未知数，并令自由未知数分别等于$c_1，c_2，\dots，c_{n-r}$，由$\overset{-}A$是行最简形矩阵，即可写出含$n-r$个参数的通解.
+设$r(A)=r(\overset{-}A)=r$，把**行最简形**中$r$个非零行的首非零元所对应的未知数取作非自由未知数，其余$n-r$个未知数取作自由未知数，并令自由未知数分别等于$c_1，c_2，\dots，c_{n-r}$，由$\overset{-}A$是行最简形矩阵，即可写出含$n-r$个参数的通解. 例如课本例12de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2MDU0NDU5LC0xNDkxMzQ4NDgzLDQ2Nz
-A3NTg2LC0yMTAwMDY0OTE5LC04ODkyMjEzOTgsNTM2MDY0NDg3
-LDI0MTk0NDM0NiwtMTI5MzQ4MzAyOCwtOTUwOTY5MTcwLDIwMz
-QwMDYzNzcsMTIwOTE3NDEzOSw0NzE0NzQ4OTEsLTQ0OTQ0NzA1
-NywtMTI4NTA3MjIwMCwtMTQwNDU2OTMwMCwxNTY2NjcxMzE3LC
-0zODU4MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2MDQsLTk0Njcy
-NDQzOV19
+eyJoaXN0b3J5IjpbNDU1ODE3NzI5LDUxNjA1NDQ1OSwtMTQ5MT
+M0ODQ4Myw0NjcwNzU4NiwtMjEwMDA2NDkxOSwtODg5MjIxMzk4
+LDUzNjA2NDQ4NywyNDE5NDQzNDYsLTEyOTM0ODMwMjgsLTk1MD
+k2OTE3MCwyMDM0MDA2Mzc3LDEyMDkxNzQxMzksNDcxNDc0ODkx
+LC00NDk0NDcwNTcsLTEyODUwNzIyMDAsLTE0MDQ1NjkzMDAsMT
+U2NjY3MTMxNywtMzg1ODAyNTcwLDY4MDQwMDI3NywxNDMwODQ2
+NjA0XX0=
 -->
