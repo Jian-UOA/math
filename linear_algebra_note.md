@@ -356,14 +356,17 @@ $⑥r(A+B) \leq r(A) + r(B).$
 $⑦R(AB) \leq min\{r(A), r(B)\}$
 $⑧若A_{m \times n}B_{n \times l}=O, 则r(A)+r(B) \leq n$
 - **秩**等于其列数的矩阵，称为**列满秩矩阵**. 当列满秩矩阵使方阵时，称为**满秩矩阵**，即可逆矩阵。
-- **例9** 证明：若$A_{m \times n}B_{n \times l}=C， 且r(A)=n， 则r(B)=r(C)$
+- **例9** 证明：若$A_{m \times n}B_{n \times l}=C， 且r(A)=n， 则r(B)=r(C).$
+**证** $$
+因r(A)=n
+$$
 - **结论** **设$AB=O$，若$A$为列满秩矩阵，则$B=O.$**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODAyNTE4NjQsLTE0MDQ1NjkzMDAsMT
-U2NjY3MTMxNywtMzg1ODAyNTcwLDY4MDQwMDI3NywxNDMwODQ2
-NjA0LC05NDY3MjQ0MzksMjAwODA2OTY5MSw3NzQ3MTg0NDcsMT
-EyMjU0ODM3NiwxNTA1MjA0MTY5LC04MjA3NDI0ODcsLTEwNTk1
-ODM3OSwtMTIyMzg0MzUxNCwyMTA2OTY4Nzk3LDIwODY1ODYxNz
-gsMTMyNDQ5NDQ3MywtMTY2MTA0NTA2LDE5MTExMjQ3Nyw5NDE0
-ODk5NjRdfQ==
+eyJoaXN0b3J5IjpbMTYyMTY2Mjg0LC0xNDA0NTY5MzAwLDE1Nj
+Y2NzEzMTcsLTM4NTgwMjU3MCw2ODA0MDAyNzcsMTQzMDg0NjYw
+NCwtOTQ2NzI0NDM5LDIwMDgwNjk2OTEsNzc0NzE4NDQ3LDExMj
+I1NDgzNzYsMTUwNTIwNDE2OSwtODIwNzQyNDg3LC0xMDU5NTgz
+NzksLTEyMjM4NDM1MTQsMjEwNjk2ODc5NywyMDg2NTg2MTc4LD
+EzMjQ0OTQ0NzMsLTE2NjEwNDUwNiwxOTExMTI0NzcsOTQxNDg5
+OTY0XX0=
 -->
