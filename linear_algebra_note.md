@@ -355,13 +355,13 @@ $⑤max\{r(A), r(B)\} \leq r(A, B) \leq r(A)+r(B).$
 $⑥r(A+B) \leq r(A) + r(B).$
 $⑦R(AB) \leq min\{r(A), r(B)\}$
 $⑧若A_{m \times n}B_{n \times l}=O, 则r(A)+r(B) \leq n$
-- **秩**等于其列数的矩阵，称为**列满秩矩阵**. 当列满秩矩阵使方阵时，称为**满秩矩阵**，即ke
+- **秩**等于其列数的矩阵，称为**列满秩矩阵**. 当列满秩矩阵使方阵时，称为**满秩矩阵**，即可逆矩阵。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU4NTQzMzEsLTE0MDQ1NjkzMDAsMT
-U2NjY3MTMxNywtMzg1ODAyNTcwLDY4MDQwMDI3NywxNDMwODQ2
-NjA0LC05NDY3MjQ0MzksMjAwODA2OTY5MSw3NzQ3MTg0NDcsMT
-EyMjU0ODM3NiwxNTA1MjA0MTY5LC04MjA3NDI0ODcsLTEwNTk1
-ODM3OSwtMTIyMzg0MzUxNCwyMTA2OTY4Nzk3LDIwODY1ODYxNz
-gsMTMyNDQ5NDQ3MywtMTY2MTA0NTA2LDE5MTExMjQ3Nyw5NDE0
-ODk5NjRdfQ==
+eyJoaXN0b3J5IjpbLTY0MTM2ODQ1OCwtMTQwNDU2OTMwMCwxNT
+Y2NjcxMzE3LC0zODU4MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2
+MDQsLTk0NjcyNDQzOSwyMDA4MDY5NjkxLDc3NDcxODQ0NywxMT
+IyNTQ4Mzc2LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4
+Mzc5LC0xMjIzODQzNTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OC
+wxMzI0NDk0NDczLC0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4
+OTk2NF19
 -->
