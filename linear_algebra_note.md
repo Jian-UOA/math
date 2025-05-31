@@ -407,13 +407,13 @@ $这是因为，按本例的结论，这时有r(B)=0， 故B=O. 这一结论通�
 	- $r(A)=n$时，只有0解.
 	- $r(A)<n$时，有无穷多非0解.
 
-* **Note:** 如果只是判断方程组有解还是误解，只将$\overset{-}A$划至$\tilde A$即可；若要求出解，必须划至**行最简形矩阵**。
+**\*Note:** 如果只是判断方程组有解还是误解，只将$\overset{-}A$划至$\tilde A$即可；若要求出解，必须划至**行最简形矩阵**。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDU5NTA2NSw0NjcwNzU4NiwtMjEwMD
-A2NDkxOSwtODg5MjIxMzk4LDUzNjA2NDQ4NywyNDE5NDQzNDYs
-LTEyOTM0ODMwMjgsLTk1MDk2OTE3MCwyMDM0MDA2Mzc3LDEyMD
-kxNzQxMzksNDcxNDc0ODkxLC00NDk0NDcwNTcsLTEyODUwNzIy
-MDAsLTE0MDQ1NjkzMDAsMTU2NjY3MTMxNywtMzg1ODAyNTcwLD
-Y4MDQwMDI3NywxNDMwODQ2NjA0LC05NDY3MjQ0MzksMjAwODA2
-OTY5MV19
+eyJoaXN0b3J5IjpbLTE0OTEzNDg0ODMsNDY3MDc1ODYsLTIxMD
+AwNjQ5MTksLTg4OTIyMTM5OCw1MzYwNjQ0ODcsMjQxOTQ0MzQ2
+LC0xMjkzNDgzMDI4LC05NTA5NjkxNzAsMjAzNDAwNjM3NywxMj
+A5MTc0MTM5LDQ3MTQ3NDg5MSwtNDQ5NDQ3MDU3LC0xMjg1MDcy
+MjAwLC0xNDA0NTY5MzAwLDE1NjY2NzEzMTcsLTM4NTgwMjU3MC
+w2ODA0MDAyNzcsMTQzMDg0NjYwNCwtOTQ2NzI0NDM5LDIwMDgw
+Njk2OTFdfQ==
 -->
