@@ -356,8 +356,9 @@ $⑥r(A+B) \leq r(A) + r(B).$
 $⑦R(AB) \leq min\{r(A), r(B)\}$
 $⑧若A_{m \times n}B_{n \times l}=O, 则r(A)+r(B) \leq n$
 - **秩**等于其列数的矩阵，称为**列满秩矩阵**. 当列满秩矩阵使方阵时，称为**满秩矩阵**，即可逆矩阵。
+- **例9结论** **$AB=O$**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTM2ODQ1OCwtMTQwNDU2OTMwMCwxNT
+eyJoaXN0b3J5IjpbMTA2ODgwNTA2NywtMTQwNDU2OTMwMCwxNT
 Y2NjcxMzE3LC0zODU4MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2
 MDQsLTk0NjcyNDQzOSwyMDA4MDY5NjkxLDc3NDcxODQ0NywxMT
 IyNTQ4Mzc2LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4
