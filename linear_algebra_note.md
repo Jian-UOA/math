@@ -426,9 +426,8 @@ x_2\\
 x_3\\
 x_4
 \end{matrix}\right]
+=c_1
 $$
-
-=
 $$
 \left[\begin{matrix}
 x_1\\
@@ -438,7 +437,7 @@ x_4
 \end{matrix}\right]
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDY0Mzc1Myw1MTYwNTQ0NTksLTE0OT
+eyJoaXN0b3J5IjpbMTE0NDM0OTc0MCw1MTYwNTQ0NTksLTE0OT
 EzNDg0ODMsNDY3MDc1ODYsLTIxMDAwNjQ5MTksLTg4OTIyMTM5
 OCw1MzYwNjQ0ODcsMjQxOTQ0MzQ2LC0xMjkzNDgzMDI4LC05NT
 A5NjkxNzAsMjAzNDAwNjM3NywxMjA5MTc0MTM5LDQ3MTQ3NDg5
