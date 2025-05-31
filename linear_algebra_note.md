@@ -368,20 +368,22 @@ E_n\\
 O
 \end{matrix}\right]. 于是
 PC=PAB=\left[\begin{matrix}
-B\\
-O
-\end{matrix}\right]B=\left[\begin{matrix}
 E_n\\
 O
-\end{matrix}\right]
+\end{matrix}\right]B=
+\left[\begin{matrix}
+B\\
+O
+\end{matrix}\right].
+由矩阵秩的性质④，知r(C)=
 $$
 - **结论** **设$AB=O$，若$A$为列满秩矩阵，则$B=O.$**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjg3MzIyMywtMTQwNDU2OTMwMCwxNT
-Y2NjcxMzE3LC0zODU4MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2
-MDQsLTk0NjcyNDQzOSwyMDA4MDY5NjkxLDc3NDcxODQ0NywxMT
-IyNTQ4Mzc2LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4
-Mzc5LC0xMjIzODQzNTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OC
-wxMzI0NDk0NDczLC0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4
-OTk2NF19
+eyJoaXN0b3J5IjpbNDEwMTE3NzExLC0xNDA0NTY5MzAwLDE1Nj
+Y2NzEzMTcsLTM4NTgwMjU3MCw2ODA0MDAyNzcsMTQzMDg0NjYw
+NCwtOTQ2NzI0NDM5LDIwMDgwNjk2OTEsNzc0NzE4NDQ3LDExMj
+I1NDgzNzYsMTUwNTIwNDE2OSwtODIwNzQyNDg3LC0xMDU5NTgz
+NzksLTEyMjM4NDM1MTQsMjEwNjk2ODc5NywyMDg2NTg2MTc4LD
+EzMjQ0OTQ0NzMsLTE2NjEwNDUwNiwxOTExMTI0NzcsOTQxNDg5
+OTY0XX0=
 -->
