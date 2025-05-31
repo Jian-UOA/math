@@ -364,7 +364,8 @@ $⑧若A_{m \times n}B_{n \times l}=O, 则r(A)+r(B) \leq n$
 \left[\begin{matrix}
 E_n\\
 O
-\end{matrix}\right]_{m \times n}，并有m阶可逆矩阵P, 使PA=
+\end{matrix}\right]_{m \times n}，\\
+并有m阶可逆矩阵P, 使PA=
 \left[\begin{matrix}
 E_n\\
 O
@@ -389,11 +390,11 @@ $这是因为，按本例的结论，这时有r(B)=0， 故B=O. 这一结论通�
 
 ## 3.3 线性方程组的解
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTE3NDEzOSw0NzE0NzQ4OTEsLTQ0OT
-Q0NzA1NywtMTI4NTA3MjIwMCwtMTQwNDU2OTMwMCwxNTY2Njcx
-MzE3LC0zODU4MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2MDQsLT
-k0NjcyNDQzOSwyMDA4MDY5NjkxLDc3NDcxODQ0NywxMTIyNTQ4
-Mzc2LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC
-0xMjIzODQzNTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMzI0
-NDk0NDczXX0=
+eyJoaXN0b3J5IjpbMjAzNDAwNjM3NywxMjA5MTc0MTM5LDQ3MT
+Q3NDg5MSwtNDQ5NDQ3MDU3LC0xMjg1MDcyMjAwLC0xNDA0NTY5
+MzAwLDE1NjY2NzEzMTcsLTM4NTgwMjU3MCw2ODA0MDAyNzcsMT
+QzMDg0NjYwNCwtOTQ2NzI0NDM5LDIwMDgwNjk2OTEsNzc0NzE4
+NDQ3LDExMjI1NDgzNzYsMTUwNTIwNDE2OSwtODIwNzQyNDg3LC
+0xMDU5NTgzNzksLTEyMjM4NDM1MTQsMjEwNjk2ODc5NywyMDg2
+NTg2MTc4XX0=
 -->
