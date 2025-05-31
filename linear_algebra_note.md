@@ -393,11 +393,11 @@ $$
 
 - **例9结论** **设$AB=O$，若$A$为列满秩矩阵，则$B=O.$**
 $这是因为，按本例的结论，这时有r(B)=0， 故B=O. 这一结论通常称为$**矩阵乘法的消去律.**
-- **例9方阵结论** **$A$为n阶方阵，且r(A)=n，则A可逆，**
+- **例9方阵结论** **$A$为n阶方阵，且r(A)=n，则$A$可逆，则$r(B)=r(AB)$**
 
 ## 3.3 线性方程组的解
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTM5MDAxOSwtOTUwOTY5MTcwLDIwMz
+eyJoaXN0b3J5IjpbLTU2MzYyMDA3MCwtOTUwOTY5MTcwLDIwMz
 QwMDYzNzcsMTIwOTE3NDEzOSw0NzE0NzQ4OTEsLTQ0OTQ0NzA1
 NywtMTI4NTA3MjIwMCwtMTQwNDU2OTMwMCwxNTY2NjcxMzE3LC
 0zODU4MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2MDQsLTk0Njcy
