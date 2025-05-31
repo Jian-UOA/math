@@ -359,7 +359,8 @@ $⑧若A_{m \times n}B_{n \times l}=O, 则r(A)+r(B) \leq n$
 - **例8**证明：$若A为n阶方阵，则r(A+E)+r(A-E) \geq n.$
 - **秩**等于其列数的矩阵，称为**列满秩矩阵**. 当列满秩矩阵是**方阵**时，称为**满秩矩阵**，即可逆矩阵。
 - **例9** 证明：$若A_{m \times n}B_{n \times l}=C， 且r(A)=n， 则r(B)=r(C).$
-**证** $$
+**证** 
+$$
 由r(A)=n， 知A的行最简形矩阵为
 \left[\begin{matrix}
 E_n\\
@@ -390,12 +391,13 @@ O
 \end{matrix}\right]=r(B)， 故\\
 r(C)=r(B).
 $$
+
 - **例9结论** **设$AB=O$，若$A$为列满秩矩阵，则$B=O.$**
 $这是因为，按本例的结论，这时有r(B)=0， 故B=O. 这一结论通常称为$**矩阵乘法的消去律.**
 
 ## 3.3 线性方程组的解
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Mzc2MjEwOCwyMDM0MDA2Mzc3LDEyMD
+eyJoaXN0b3J5IjpbMjAyMTQ2MTA4OCwyMDM0MDA2Mzc3LDEyMD
 kxNzQxMzksNDcxNDc0ODkxLC00NDk0NDcwNTcsLTEyODUwNzIy
 MDAsLTE0MDQ1NjkzMDAsMTU2NjY3MTMxNywtMzg1ODAyNTcwLD
 Y4MDQwMDI3NywxNDMwODQ2NjA0LC05NDY3MjQ0MzksMjAwODA2
