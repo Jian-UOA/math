@@ -358,15 +358,15 @@ $⑧若A_{m \times n}B_{n \times l}=O, 则r(A)+r(B) \leq n$
 - **秩**等于其列数的矩阵，称为**列满秩矩阵**. 当列满秩矩阵使方阵时，称为**满秩矩阵**，即可逆矩阵。
 - **例9** 证明：若$A_{m \times n}B_{n \times l}=C， 且r(A)=n， 则r(B)=r(C).$
 **证** $$
-因r(A)=n
+由r(A)=n， 知A的行最简形矩阵为(\overset(E_n) O)
 $$
 - **结论** **设$AB=O$，若$A$为列满秩矩阵，则$B=O.$**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTY2Mjg0LC0xNDA0NTY5MzAwLDE1Nj
-Y2NzEzMTcsLTM4NTgwMjU3MCw2ODA0MDAyNzcsMTQzMDg0NjYw
-NCwtOTQ2NzI0NDM5LDIwMDgwNjk2OTEsNzc0NzE4NDQ3LDExMj
-I1NDgzNzYsMTUwNTIwNDE2OSwtODIwNzQyNDg3LC0xMDU5NTgz
-NzksLTEyMjM4NDM1MTQsMjEwNjk2ODc5NywyMDg2NTg2MTc4LD
-EzMjQ0OTQ0NzMsLTE2NjEwNDUwNiwxOTExMTI0NzcsOTQxNDg5
-OTY0XX0=
+eyJoaXN0b3J5IjpbMjA1OTEyMTYzNiwtMTQwNDU2OTMwMCwxNT
+Y2NjcxMzE3LC0zODU4MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2
+MDQsLTk0NjcyNDQzOSwyMDA4MDY5NjkxLDc3NDcxODQ0NywxMT
+IyNTQ4Mzc2LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4
+Mzc5LC0xMjIzODQzNTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OC
+wxMzI0NDk0NDczLC0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4
+OTk2NF19
 -->
