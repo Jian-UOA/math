@@ -340,9 +340,11 @@ $r(A^T)=r(A)$
 
 $对于A_n，当|A| \neq 0时，r(A)=n，当|A|=0时，r(A)<n. 故，可逆矩阵的秩等于其阶数，不可逆矩阵的秩小于其阶数. 可逆矩阵又称$**满秩矩阵**, 不可逆矩阵(奇异矩阵)又称**降秩矩阵**.
 
-### 3.2.4 定理2 若$A \sim $ 
+### 3.2.4 定理2 若$A \sim B$，则$r(A)=r(B)$.
+初等变换，不改变矩阵的秩。
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI5NzE2MiwxNTY2NjcxMzE3LC0zOD
+eyJoaXN0b3J5IjpbMTk2ODc3NDUyNCwxNTY2NjcxMzE3LC0zOD
 U4MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2MDQsLTk0NjcyNDQz
 OSwyMDA4MDY5NjkxLDc3NDcxODQ0NywxMTIyNTQ4Mzc2LDE1MD
 UyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQz
