@@ -329,13 +329,13 @@ $A_{m \times n}$的$k$阶子式共有$C_m^k \cdot  C_n^k$个.
 ### 3.2.2 引理
 **设$A \overset{r} \sim B$，则$A$与$B$中非零子式的最高阶数相等**.
 ### 3.2.3 定义5 秩
-$设在矩阵A中有一个不等于0的r阶子式D，且所有r+1阶子式(若存在的话)全等于0， 那么D称为矩阵A的最高阶非零子式，数r称为$
+$设在矩阵A中有一个不等于0的r阶子式D，且所有r+1阶子式(若存在的话)全等于0， 那么D称为矩阵A的最高阶非零子式，数r称为$**矩阵$A$的秩**，记作$r(A)$. 并规定零矩阵的秩等于$0$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE1NjcwODEsLTM4NTgwMjU3MCw2OD
-A0MDAyNzcsMTQzMDg0NjYwNCwtOTQ2NzI0NDM5LDIwMDgwNjk2
-OTEsNzc0NzE4NDQ3LDExMjI1NDgzNzYsMTUwNTIwNDE2OSwtOD
-IwNzQyNDg3LC0xMDU5NTgzNzksLTEyMjM4NDM1MTQsMjEwNjk2
-ODc5NywyMDg2NTg2MTc4LDEzMjQ0OTQ0NzMsLTE2NjEwNDUwNi
-wxOTExMTI0NzcsOTQxNDg5OTY0LC0xMjYwODUyMDAyLC03Njc2
-NDc0ODFdfQ==
+eyJoaXN0b3J5IjpbMTU2NjY3MTMxNywtMzg1ODAyNTcwLDY4MD
+QwMDI3NywxNDMwODQ2NjA0LC05NDY3MjQ0MzksMjAwODA2OTY5
+MSw3NzQ3MTg0NDcsMTEyMjU0ODM3NiwxNTA1MjA0MTY5LC04Mj
+A3NDI0ODcsLTEwNTk1ODM3OSwtMTIyMzg0MzUxNCwyMTA2OTY4
+Nzk3LDIwODY1ODYxNzgsMTMyNDQ5NDQ3MywtMTY2MTA0NTA2LD
+E5MTExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4NTIwMDIsLTc2NzY0
+NzQ4MV19
 -->
