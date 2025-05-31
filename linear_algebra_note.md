@@ -400,12 +400,13 @@ $这是因为，按本例的结论，这时有r(B)=0， 故B=O. 这一结论通�
 - ① 当$r(A) = r(\overset{-} A)=n$时，有唯一解；
 - ② 当$r(A) = r(\overset{-}A)<n$时，无穷多解；
 - ③ 当$r(A) \neq r(\overset{-}A)$时，无解。
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2MDY0NDg3LDI0MTk0NDM0NiwtMTI5Mz
-Q4MzAyOCwtOTUwOTY5MTcwLDIwMzQwMDYzNzcsMTIwOTE3NDEz
-OSw0NzE0NzQ4OTEsLTQ0OTQ0NzA1NywtMTI4NTA3MjIwMCwtMT
-QwNDU2OTMwMCwxNTY2NjcxMzE3LC0zODU4MDI1NzAsNjgwNDAw
-Mjc3LDE0MzA4NDY2MDQsLTk0NjcyNDQzOSwyMDA4MDY5NjkxLD
-c3NDcxODQ0NywxMTIyNTQ4Mzc2LDE1MDUyMDQxNjksLTgyMDc0
-MjQ4N119
+eyJoaXN0b3J5IjpbLTE2OTk2MzExMzQsNTM2MDY0NDg3LDI0MT
+k0NDM0NiwtMTI5MzQ4MzAyOCwtOTUwOTY5MTcwLDIwMzQwMDYz
+NzcsMTIwOTE3NDEzOSw0NzE0NzQ4OTEsLTQ0OTQ0NzA1NywtMT
+I4NTA3MjIwMCwtMTQwNDU2OTMwMCwxNTY2NjcxMzE3LC0zODU4
+MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2MDQsLTk0NjcyNDQzOS
+wyMDA4MDY5NjkxLDc3NDcxODQ0NywxMTIyNTQ4Mzc2LDE1MDUy
+MDQxNjldfQ==
 -->
