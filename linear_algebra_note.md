@@ -404,8 +404,10 @@ $这是因为，按本例的结论，这时有r(B)=0， 故B=O. 这一结论通�
 - **$n$元齐次线性方程组$Ax=0$**
 	- 当$x=0$时，$A \cdot 0=0$一定成立，故$Ax=0$一定有解，至少有$0$解。
 	- $r(A)=r(\overset{-}A)$
+	- $r(A)=n$时，只有0解.
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjI5OTE5MywtODg5MjIxMzk4LDUzNj
+eyJoaXN0b3J5IjpbMTI1MjY4NDkwMiwtODg5MjIxMzk4LDUzNj
 A2NDQ4NywyNDE5NDQzNDYsLTEyOTM0ODMwMjgsLTk1MDk2OTE3
 MCwyMDM0MDA2Mzc3LDEyMDkxNzQxMzksNDcxNDc0ODkxLC00ND
 k0NDcwNTcsLTEyODUwNzIyMDAsLTE0MDQ1NjkzMDAsMTU2NjY3
