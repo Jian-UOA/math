@@ -448,9 +448,9 @@ x_4
 ### 3.3.2 课本定理6
 $AX=B$有解 $\Leftrightarrow r(A)=r(A, B)$ 
 ### 3.3.3 课本定理7
-**设$AB=C$**
+**设$AB=C$，则$r(c) \leq min\{r(A), r(B)\}$**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODU2OTA4MzAsOTIyOTUzMjI4LDI0OT
+eyJoaXN0b3J5IjpbLTE2NTQxOTUzNTIsOTIyOTUzMjI4LDI0OT
 kyMTYxNiwxNDQyNDk4MjIsNTE2MDU0NDU5LC0xNDkxMzQ4NDgz
 LDQ2NzA3NTg2LC0yMTAwMDY0OTE5LC04ODkyMjEzOTgsNTM2MD
 Y0NDg3LDI0MTk0NDM0NiwtMTI5MzQ4MzAyOCwtOTUwOTY5MTcw
