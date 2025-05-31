@@ -329,7 +329,7 @@ $A_{m \times n}$的$k$阶子式共有$C_m^k \cdot  C_n^k$个.
 ### 3.2.2 引理
 **设$A \overset{r} \sim B$，则$A$与$B$中非零子式的最高阶数相等**.
 ### 3.2.3 定义5 矩阵的秩
-$设在矩阵A中有一个不等于0的r阶子式D，且所有r+1阶子式(若存在的话)全等于0， 那么D称为矩阵A的 **最高阶非零子式 ，阶数r称为$**矩阵$A$的秩**，$记作r(A). 并规定零矩阵的秩等于0.$
+$设在矩阵A中有一个不等于0的r阶子式D，且所有r+1阶子式(若存在的话)全等于0， 那么D称为矩阵A的$ **最高阶非零子式** ，$阶数r称为$**矩阵$A$的秩**，$记作r(A). 并规定零矩阵的秩等于0.$
 
 $\because r(A) 是A的非零子式的最高阶数$
 $\therefore 若A中由某个s阶子式不为0，则r(A) \geq s; 若A中所有t阶子式全为0，则r(A)<t.$
@@ -452,11 +452,11 @@ $AX=B$有解 $\Leftrightarrow r(A)=r(A, B)$
 
 # 4. 向量组的线性相关性
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYxNzMxODcsLTUxMTkxMzQwMSwtMT
-Y1NDE5NTM1Miw5MjI5NTMyMjgsMjQ5OTIxNjE2LDE0NDI0OTgy
-Miw1MTYwNTQ0NTksLTE0OTEzNDg0ODMsNDY3MDc1ODYsLTIxMD
-AwNjQ5MTksLTg4OTIyMTM5OCw1MzYwNjQ0ODcsMjQxOTQ0MzQ2
-LC0xMjkzNDgzMDI4LC05NTA5NjkxNzAsMjAzNDAwNjM3NywxMj
-A5MTc0MTM5LDQ3MTQ3NDg5MSwtNDQ5NDQ3MDU3LC0xMjg1MDcy
-MjAwXX0=
+eyJoaXN0b3J5IjpbMTYwOTk0NTUwMywtNTExOTEzNDAxLC0xNj
+U0MTk1MzUyLDkyMjk1MzIyOCwyNDk5MjE2MTYsMTQ0MjQ5ODIy
+LDUxNjA1NDQ1OSwtMTQ5MTM0ODQ4Myw0NjcwNzU4NiwtMjEwMD
+A2NDkxOSwtODg5MjIxMzk4LDUzNjA2NDQ4NywyNDE5NDQzNDYs
+LTEyOTM0ODMwMjgsLTk1MDk2OTE3MCwyMDM0MDA2Mzc3LDEyMD
+kxNzQxMzksNDcxNDc0ODkxLC00NDk0NDcwNTcsLTEyODUwNzIy
+MDBdfQ==
 -->
