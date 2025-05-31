@@ -337,8 +337,10 @@ $\therefore 若A中由某个s阶子式不为0，则r(A) \geq s; 若A中所有t�
 $若A为 m \times n矩阵，则 0 \leq r(A) \leq min \{m, n\}$
 
 $r(A^T)=r(A)$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDA4NDcwNywxNTY2NjcxMzE3LC0zOD
+eyJoaXN0b3J5IjpbLTM0NzQ3MzQxNSwxNTY2NjcxMzE3LC0zOD
 U4MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2MDQsLTk0NjcyNDQz
 OSwyMDA4MDY5NjkxLDc3NDcxODQ0NywxMTIyNTQ4Mzc2LDE1MD
 UyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQz
