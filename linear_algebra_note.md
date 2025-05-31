@@ -343,10 +343,11 @@ $对于A_n，当|A| \neq 0时，r(A)=n，当|A|=0时，r(A)<n. 故，可逆矩�
 ### 3.2.4 定理2 若$A \sim B$，则$r(A)=r(B)$.
 初等变换，不改变矩阵的秩。
 $$
-\because A \
+\because A \sim B \Leftrightarrow \exist 可逆矩阵P、Q，使PAQ=B
+
 $$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTg0NjE3MDMsMTU2NjY3MTMxNywtMz
+eyJoaXN0b3J5IjpbLTEzNjkyNTYyMzYsMTU2NjY3MTMxNywtMz
 g1ODAyNTcwLDY4MDQwMDI3NywxNDMwODQ2NjA0LC05NDY3MjQ0
 MzksMjAwODA2OTY5MSw3NzQ3MTg0NDcsMTEyMjU0ODM3NiwxNT
 A1MjA0MTY5LC04MjA3NDI0ODcsLTEwNTk1ODM3OSwtMTIyMzg0
