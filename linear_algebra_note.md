@@ -342,16 +342,14 @@ $对于A_n，当|A| \neq 0时，r(A)=n，当|A|=0时，r(A)<n. 故，可逆矩�
 
 ### 3.2.4 定理2 若$A \sim B$，则$r(A)=r(B)$.
 初等变换，不改变矩阵的秩。
-$$
-\because A \sim B \Leftrightarrow \exist 可逆矩阵P、Q，使PAQ=B
+$\because A \sim B \Leftrightarrow \exist 可逆矩阵P、Q，使PAQ=B$ 
 
-$$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkyNTYyMzYsMTU2NjY3MTMxNywtMz
-g1ODAyNTcwLDY4MDQwMDI3NywxNDMwODQ2NjA0LC05NDY3MjQ0
-MzksMjAwODA2OTY5MSw3NzQ3MTg0NDcsMTEyMjU0ODM3NiwxNT
-A1MjA0MTY5LC04MjA3NDI0ODcsLTEwNTk1ODM3OSwtMTIyMzg0
-MzUxNCwyMTA2OTY4Nzk3LDIwODY1ODYxNzgsMTMyNDQ5NDQ3My
-wtMTY2MTA0NTA2LDE5MTExMjQ3Nyw5NDE0ODk5NjQsLTEyNjA4
-NTIwMDJdfQ==
+eyJoaXN0b3J5IjpbNDAxNzQwNTE2LDE1NjY2NzEzMTcsLTM4NT
+gwMjU3MCw2ODA0MDAyNzcsMTQzMDg0NjYwNCwtOTQ2NzI0NDM5
+LDIwMDgwNjk2OTEsNzc0NzE4NDQ3LDExMjI1NDgzNzYsMTUwNT
+IwNDE2OSwtODIwNzQyNDg3LC0xMDU5NTgzNzksLTEyMjM4NDM1
+MTQsMjEwNjk2ODc5NywyMDg2NTg2MTc4LDEzMjQ0OTQ0NzMsLT
+E2NjEwNDUwNiwxOTExMTI0NzcsOTQxNDg5OTY0LC0xMjYwODUy
+MDAyXX0=
 -->
