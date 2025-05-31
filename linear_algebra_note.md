@@ -353,13 +353,14 @@ $③A \sim B \Leftrightarrow r(A)=r(B).$
 $④若P、Q可逆，则r(PAQ)=r(A).$
 $⑤max\{r(A), r(B)\} \leq r(A, B) \leq r(A)+r(B).$
 $⑥r(A+B) \leq r(A) + r(B).$
-$⑦R(AB) \leq min\{r(A), r()\}$
+$⑦R(AB) \leq min\{r(A), r(B)\}$
+$⑧若A_{m \times n}B_{n \times l}=O, 则$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4NTQxMDQ1LDE1NjY2NzEzMTcsLTM4NT
-gwMjU3MCw2ODA0MDAyNzcsMTQzMDg0NjYwNCwtOTQ2NzI0NDM5
-LDIwMDgwNjk2OTEsNzc0NzE4NDQ3LDExMjI1NDgzNzYsMTUwNT
-IwNDE2OSwtODIwNzQyNDg3LC0xMDU5NTgzNzksLTEyMjM4NDM1
-MTQsMjEwNjk2ODc5NywyMDg2NTg2MTc4LDEzMjQ0OTQ0NzMsLT
-E2NjEwNDUwNiwxOTExMTI0NzcsOTQxNDg5OTY0LC0xMjYwODUy
-MDAyXX0=
+eyJoaXN0b3J5IjpbMTY3MDEyNDcyMCwxNTY2NjcxMzE3LC0zOD
+U4MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2MDQsLTk0NjcyNDQz
+OSwyMDA4MDY5NjkxLDc3NDcxODQ0NywxMTIyNTQ4Mzc2LDE1MD
+UyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQz
+NTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OCwxMzI0NDk0NDczLC
+0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4OTk2NCwtMTI2MDg1
+MjAwMl19
 -->
