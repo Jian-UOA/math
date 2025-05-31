@@ -356,6 +356,7 @@ $⑤max\{r(A), r(B)\} \leq r(A, B) \leq r(A)+r(B).$
 $⑥r(A+B) \leq r(A) + r(B).$
 $⑦R(AB) \leq min\{r(A), r(B)\}$
 $⑧若A_{m \times n}B_{n \times l}=O, 则r(A)+r(B) \leq n$
+- **例8**ruo
 - **秩**等于其列数的矩阵，称为**列满秩矩阵**. 当列满秩矩阵使方阵时，称为**满秩矩阵**，即可逆矩阵。
 - **例9** 证明：若$A_{m \times n}B_{n \times l}=C， 且r(A)=n， 则r(B)=r(C).$
 **证** $$
@@ -388,11 +389,11 @@ $这是因为，按本例的结论，这时有r(B)=0， 故B=O. 这一结论通�
 
 ## 3.3 线性方程组的解
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTQ0NzA1NywtMTI4NTA3MjIwMCwtMT
-QwNDU2OTMwMCwxNTY2NjcxMzE3LC0zODU4MDI1NzAsNjgwNDAw
-Mjc3LDE0MzA4NDY2MDQsLTk0NjcyNDQzOSwyMDA4MDY5NjkxLD
-c3NDcxODQ0NywxMTIyNTQ4Mzc2LDE1MDUyMDQxNjksLTgyMDc0
-MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQzNTE0LDIxMDY5Njg3OT
-csMjA4NjU4NjE3OCwxMzI0NDk0NDczLC0xNjYxMDQ1MDYsMTkx
-MTEyNDc3XX0=
+eyJoaXN0b3J5IjpbMTU5MjUyMzI2MywtNDQ5NDQ3MDU3LC0xMj
+g1MDcyMjAwLC0xNDA0NTY5MzAwLDE1NjY2NzEzMTcsLTM4NTgw
+MjU3MCw2ODA0MDAyNzcsMTQzMDg0NjYwNCwtOTQ2NzI0NDM5LD
+IwMDgwNjk2OTEsNzc0NzE4NDQ3LDExMjI1NDgzNzYsMTUwNTIw
+NDE2OSwtODIwNzQyNDg3LC0xMDU5NTgzNzksLTEyMjM4NDM1MT
+QsMjEwNjk2ODc5NywyMDg2NTg2MTc4LDEzMjQ0OTQ0NzMsLTE2
+NjEwNDUwNl19
 -->
