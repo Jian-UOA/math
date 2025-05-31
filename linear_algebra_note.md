@@ -328,15 +328,17 @@ $在m \times n 矩阵A中，任取k行与k列(k \leq m, k \leq n )， 位于这�
 $A_{m \times n}$的$k$阶子式共有$C_m^k \cdot  C_n^k$个.
 ### 3.2.2 引理
 **设$A \overset{r} \sim B$，则$A$与$B$中非零子式的最高阶数相等**.
-### 3.2.3 定义5 秩
+### 3.2.3 定义5 矩阵的秩
 $设在矩阵A中有一个不等于0的r阶子式D，且所有r+1阶子式(若存在的话)全等于0， 那么D称为矩阵A的最高阶非零子式，阶数r称为$**矩阵$A$的秩**，$记作r(A). 并规定零矩阵的秩等于0.$
 
 $\because r(A) 是A的非零子式的最高阶数$
 $\therefore 若A中由某个s阶子式不为0，则r(A) \geq s; 若A中所有t阶子式全为0，则r(A)<t.$
 
 $若A为 m \times n矩阵，则 0 \leq r(A) \leq min \{m, n\}$
+
+$r(A^T)=r(A)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjE5NTg1NiwxNTY2NjcxMzE3LC0zOD
+eyJoaXN0b3J5IjpbLTM5MDA4NDcwNywxNTY2NjcxMzE3LC0zOD
 U4MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2MDQsLTk0NjcyNDQz
 OSwyMDA4MDY5NjkxLDc3NDcxODQ0NywxMTIyNTQ4Mzc2LDE1MD
 UyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQz
