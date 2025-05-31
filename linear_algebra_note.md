@@ -397,9 +397,11 @@ $这是因为，按本例的结论，这时有r(B)=0， 故B=O. 这一结论通�
 
 ## 3.3 线性方程组的解
 ### 3.3.1定理3 $n$元线性方程组$Ax=b$
-- (i) 当$r(A) = r(\overset{-} A)=n$时，有唯一解
+- (i) 当$r(A) = r(\overset{-} A)=n$时，有唯一解；
+- (i) 当$r(A)<r(\overset{-}A)=n$时，无解；
+- (i) 当
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzUyNzA3NjQsMjQxOTQ0MzQ2LC0xMj
+eyJoaXN0b3J5IjpbLTE2MzUzODkwNDcsMjQxOTQ0MzQ2LC0xMj
 kzNDgzMDI4LC05NTA5NjkxNzAsMjAzNDAwNjM3NywxMjA5MTc0
 MTM5LDQ3MTQ3NDg5MSwtNDQ5NDQ3MDU3LC0xMjg1MDcyMjAwLC
 0xNDA0NTY5MzAwLDE1NjY2NzEzMTcsLTM4NTgwMjU3MCw2ODA0
