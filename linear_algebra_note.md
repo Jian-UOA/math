@@ -360,15 +360,17 @@ $⑧若A_{m \times n}B_{n \times l}=O, 则r(A)+r(B) \leq n$
 **证** $$
 由r(A)=n， 知A的行最简形矩阵为
 \left[\begin{matrix}
-\end{matrix}\right \overset{E_n} O)
+E_n\\
+O
+\end{matrix}\right]_{m \times n}，并有m阶可逆矩阵P, 使
 $$
 - **结论** **设$AB=O$，若$A$为列满秩矩阵，则$B=O.$**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTcwNjQ5NywtMTQwNDU2OTMwMCwxNT
-Y2NjcxMzE3LC0zODU4MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2
-MDQsLTk0NjcyNDQzOSwyMDA4MDY5NjkxLDc3NDcxODQ0NywxMT
-IyNTQ4Mzc2LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4
-Mzc5LC0xMjIzODQzNTE0LDIxMDY5Njg3OTcsMjA4NjU4NjE3OC
-wxMzI0NDk0NDczLC0xNjYxMDQ1MDYsMTkxMTEyNDc3LDk0MTQ4
-OTk2NF19
+eyJoaXN0b3J5IjpbLTIwMjM2NDIzNjEsLTE0MDQ1NjkzMDAsMT
+U2NjY3MTMxNywtMzg1ODAyNTcwLDY4MDQwMDI3NywxNDMwODQ2
+NjA0LC05NDY3MjQ0MzksMjAwODA2OTY5MSw3NzQ3MTg0NDcsMT
+EyMjU0ODM3NiwxNTA1MjA0MTY5LC04MjA3NDI0ODcsLTEwNTk1
+ODM3OSwtMTIyMzg0MzUxNCwyMTA2OTY4Nzk3LDIwODY1ODYxNz
+gsMTMyNDQ5NDQ3MywtMTY2MTA0NTA2LDE5MTExMjQ3Nyw5NDE0
+ODk5NjRdfQ==
 -->
