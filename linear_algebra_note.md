@@ -350,9 +350,10 @@ $\therefore 可得$
 $①0\leq r(A_{m \times n}) \leq min\{m, n\}$
 $②r(A^T)=r(A)$
 $③A \sim B \Leftrightarrow r(A)=r(B)$
-$④$
+$④若P、Q可逆，则r(PAQ)=r(A)$
+$max\{\}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NTY4Mjk0LDE1NjY2NzEzMTcsLTM4NT
+eyJoaXN0b3J5IjpbNTc5Mzc4ODE3LDE1NjY2NzEzMTcsLTM4NT
 gwMjU3MCw2ODA0MDAyNzcsMTQzMDg0NjYwNCwtOTQ2NzI0NDM5
 LDIwMDgwNjk2OTEsNzc0NzE4NDQ3LDExMjI1NDgzNzYsMTUwNT
 IwNDE2OSwtODIwNzQyNDg3LC0xMDU5NTgzNzksLTEyMjM4NDM1
