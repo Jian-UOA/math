@@ -355,9 +355,9 @@ $⑤max\{r(A), r(B)\} \leq r(A, B) \leq r(A)+r(B).$
 $⑥r(A+B) \leq r(A) + r(B).$
 $⑦R(AB) \leq min\{r(A), r(B)\}$
 $⑧若A_{m \times n}B_{n \times l}=O, 则r(A)+r(B) \leq n$
-- **秩**等于其列数的矩阵，cheng'wei
+- **秩**等于其列数的矩阵，称为**列满秩矩阵**. 当列满秩矩阵使方阵时，称为**满秩矩阵**，即ke
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg4OTEzMzEsLTE0MDQ1NjkzMDAsMT
+eyJoaXN0b3J5IjpbLTIwNjU4NTQzMzEsLTE0MDQ1NjkzMDAsMT
 U2NjY3MTMxNywtMzg1ODAyNTcwLDY4MDQwMDI3NywxNDMwODQ2
 NjA0LC05NDY3MjQ0MzksMjAwODA2OTY5MSw3NzQ3MTg0NDcsMT
 EyMjU0ODM3NiwxNTA1MjA0MTY5LC04MjA3NDI0ODcsLTEwNTk1
