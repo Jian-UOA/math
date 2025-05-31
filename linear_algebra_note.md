@@ -374,7 +374,10 @@ PC=PAB=\left[\begin{matrix}
 E_n\\
 O
 \end{matrix}\right]B=
-\l
+\left[\begin{matrix}
+E_nB\\
+OB
+\end{matrix}\right]
 =
 \left[\begin{matrix}
 B\\
@@ -392,11 +395,11 @@ $这是因为，按本例的结论，这时有r(B)=0， 故B=O. 这一结论通�
 
 ## 3.3 线性方程组的解
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTYwOTc0MTYsMjAzNDAwNjM3NywxMj
-A5MTc0MTM5LDQ3MTQ3NDg5MSwtNDQ5NDQ3MDU3LC0xMjg1MDcy
-MjAwLC0xNDA0NTY5MzAwLDE1NjY2NzEzMTcsLTM4NTgwMjU3MC
-w2ODA0MDAyNzcsMTQzMDg0NjYwNCwtOTQ2NzI0NDM5LDIwMDgw
-Njk2OTEsNzc0NzE4NDQ3LDExMjI1NDgzNzYsMTUwNTIwNDE2OS
-wtODIwNzQyNDg3LC0xMDU5NTgzNzksLTEyMjM4NDM1MTQsMjEw
-Njk2ODc5N119
+eyJoaXN0b3J5IjpbMTc2Mzc2MjEwOCwyMDM0MDA2Mzc3LDEyMD
+kxNzQxMzksNDcxNDc0ODkxLC00NDk0NDcwNTcsLTEyODUwNzIy
+MDAsLTE0MDQ1NjkzMDAsMTU2NjY3MTMxNywtMzg1ODAyNTcwLD
+Y4MDQwMDI3NywxNDMwODQ2NjA0LC05NDY3MjQ0MzksMjAwODA2
+OTY5MSw3NzQ3MTg0NDcsMTEyMjU0ODM3NiwxNTA1MjA0MTY5LC
+04MjA3NDI0ODcsLTEwNTk1ODM3OSwtMTIyMzg0MzUxNCwyMTA2
+OTY4Nzk3XX0=
 -->
