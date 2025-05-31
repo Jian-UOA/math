@@ -363,11 +363,15 @@ $⑧若A_{m \times n}B_{n \times l}=O, 则r(A)+r(B) \leq n$
 E_n\\
 O
 \end{matrix}\right]_{m \times n}，并有m阶可逆矩阵P, 使PA=
-
+\left[\begin{matrix}
+E_n\\
+O
+\end{matrix}\right]. 于是
+PC=
 $$
 - **结论** **设$AB=O$，若$A$为列满秩矩阵，则$B=O.$**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwNjgyNTUzLC0xNDA0NTY5MzAwLDE1Nj
+eyJoaXN0b3J5IjpbMTMyNTg5MzgwLC0xNDA0NTY5MzAwLDE1Nj
 Y2NzEzMTcsLTM4NTgwMjU3MCw2ODA0MDAyNzcsMTQzMDg0NjYw
 NCwtOTQ2NzI0NDM5LDIwMDgwNjk2OTEsNzc0NzE4NDQ3LDExMj
 I1NDgzNzYsMTUwNTIwNDE2OSwtODIwNzQyNDg3LC0xMDU5NTgz
