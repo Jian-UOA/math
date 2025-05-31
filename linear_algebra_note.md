@@ -359,10 +359,7 @@ $⑧若A_{m \times n}B_{n \times l}=O, 则r(A)+r(B) \leq n$
 - **例8**证明：$若A为n阶方阵，则r(A+E)+r(A-E) \geq n.$
 - **秩**等于其列数的矩阵，称为**列满秩矩阵**. 当列满秩矩阵是**方阵**时，称为**满秩矩阵**，即可逆矩阵。
 - **例9** 证明：$若A_{m \times n}B_{n \times l}=C， 且r(A)=n， 则r(B)=r(C).$
-
-**证:** 
-
-$$
+**证:** $$
 由r(A)=n， 知A的行最简形矩阵为
 \left[\begin{matrix}
 E_n\\
@@ -386,8 +383,8 @@ OB
 B\\
 O
 \end{matrix}\right].\\
-由矩阵秩的性质④，知r(C)=r(PC)， 而r
-\left[\begin{matrix}
+由矩阵秩的性质④，知r(C)=r(PC)， 而
+r\left[\begin{matrix}
 B\\
 O
 \end{matrix}\right]=r(B)， 故\\
@@ -399,11 +396,11 @@ $这是因为，按本例的结论，这时有r(B)=0， 故B=O. 这一结论通�
 
 ## 3.3 线性方程组的解
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTA2MjA0LDIwMzQwMDYzNzcsMTIwOT
-E3NDEzOSw0NzE0NzQ4OTEsLTQ0OTQ0NzA1NywtMTI4NTA3MjIw
-MCwtMTQwNDU2OTMwMCwxNTY2NjcxMzE3LC0zODU4MDI1NzAsNj
-gwNDAwMjc3LDE0MzA4NDY2MDQsLTk0NjcyNDQzOSwyMDA4MDY5
-NjkxLDc3NDcxODQ0NywxMTIyNTQ4Mzc2LDE1MDUyMDQxNjksLT
-gyMDc0MjQ4NywtMTA1OTU4Mzc5LC0xMjIzODQzNTE0LDIxMDY5
-Njg3OTddfQ==
+eyJoaXN0b3J5IjpbLTk1MDk2OTE3MCwyMDM0MDA2Mzc3LDEyMD
+kxNzQxMzksNDcxNDc0ODkxLC00NDk0NDcwNTcsLTEyODUwNzIy
+MDAsLTE0MDQ1NjkzMDAsMTU2NjY3MTMxNywtMzg1ODAyNTcwLD
+Y4MDQwMDI3NywxNDMwODQ2NjA0LC05NDY3MjQ0MzksMjAwODA2
+OTY5MSw3NzQ3MTg0NDcsMTEyMjU0ODM3NiwxNTA1MjA0MTY5LC
+04MjA3NDI0ODcsLTEwNTk1ODM3OSwtMTIyMzg0MzUxNCwyMTA2
+OTY4Nzk3XX0=
 -->
