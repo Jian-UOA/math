@@ -366,7 +366,7 @@ O
 \left[\begin{matrix}
 E_n\\
 O
-\end{matrix}\right]. 于是
+\end{matrix}\right]. 于是\\
 PC=PAB=\left[\begin{matrix}
 E_n\\
 O
@@ -374,17 +374,17 @@ O
 \left[\begin{matrix}
 B\\
 O
-\end{matrix}\right].
+\end{matrix}\right].\\
 由矩阵秩的性质④，知r(C)=r(PC)， 而r
 \left[\begin{matrix}
 B\\
 O
-\end{matrix}\right]=r(B)， 故
-r(C)=r(B)
+\end{matrix}\right]=r(B)， 故\\
+r(C)=r(B).
 $$
 - **结论** **设$AB=O$，若$A$为列满秩矩阵，则$B=O.$**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzI5NTYwNCwtMTQwNDU2OTMwMCwxNT
+eyJoaXN0b3J5IjpbLTQzMjk4MzU0OCwtMTQwNDU2OTMwMCwxNT
 Y2NjcxMzE3LC0zODU4MDI1NzAsNjgwNDAwMjc3LDE0MzA4NDY2
 MDQsLTk0NjcyNDQzOSwyMDA4MDY5NjkxLDc3NDcxODQ0NywxMT
 IyNTQ4Mzc2LDE1MDUyMDQxNjksLTgyMDc0MjQ4NywtMTA1OTU4
