@@ -402,9 +402,9 @@ $这是因为，按本例的结论，这时有r(B)=0， 故B=O. 这一结论通�
 	- ② 当$r(A) = r(\overset{-}A)<n$时，无穷多解；
 	- ③ 当$r(A) \neq r(\overset{-}A)$时，无解。
 - **$n$元齐次线性方程组$Ax=0$**
-	- 当$x=0$时，$A \cdot 0=0$
+	- 当$x=0$时，$A \cdot 0=0$一定成立，故$Ax=0$一定有解，至少有$0$解。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzkxMzQ1MCw1MzYwNjQ0ODcsMjQxOT
+eyJoaXN0b3J5IjpbLTg4OTIyMTM5OCw1MzYwNjQ0ODcsMjQxOT
 Q0MzQ2LC0xMjkzNDgzMDI4LC05NTA5NjkxNzAsMjAzNDAwNjM3
 NywxMjA5MTc0MTM5LDQ3MTQ3NDg5MSwtNDQ5NDQ3MDU3LC0xMj
 g1MDcyMjAwLC0xNDA0NTY5MzAwLDE1NjY2NzEzMTcsLTM4NTgw
