@@ -445,7 +445,8 @@ x_4
 0
 \end{matrix}\right]$
 ### 3.3.2 定理5
-线性方程组Ax=b
+线性方程组**Ax=b**有解的充要条件是**r(A)=r(A, b)**.即：
+$Ax$
 ### 3.3.2 课本定理6
 $AX=B$有解，当且仅当A的秩等于增广矩阵(A, B)的秩。
 $AX=B$有解 $\Leftrightarrow r(A)=r(A, B)$ 
@@ -454,7 +455,7 @@ $AX=B$有解 $\Leftrightarrow r(A)=r(A, B)$
 
 # 4. 向量组的线性相关性
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzAwMDYwOSwxMzY2MDY2MDkzLDE2MD
+eyJoaXN0b3J5IjpbMTc3OTc4MTQ1MiwxMzY2MDY2MDkzLDE2MD
 k5NDU1MDMsLTUxMTkxMzQwMSwtMTY1NDE5NTM1Miw5MjI5NTMy
 MjgsMjQ5OTIxNjE2LDE0NDI0OTgyMiw1MTYwNTQ0NTksLTE0OT
 EzNDg0ODMsNDY3MDc1ODYsLTIxMDAwNjQ5MTksLTg4OTIyMTM5
