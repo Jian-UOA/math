@@ -82,7 +82,7 @@ $$
   | 列等价 | 矩阵A经过有限次初等行变换得到矩阵B | $A \overset{c}\sim B$ |
   | 等价   | 矩阵A经过有限次初等变换得到矩阵B   | $A \sim B$            |
 * 矩阵的性质
-  (i) 反身性 $A\sim B $
+  (i) 反身性 $A \sim B$
   (ii) 对称性 若$A \sim B$，则$B \sim A$
   (iii) 传递性 若 $A \sim B$, $B \sim C$, 则 $A \sim C$
 * **行阶梯形矩阵**
@@ -455,11 +455,11 @@ $AX=B$有解 $\Leftrightarrow r(A)=r(A, B)$
 
 # 4. 向量组的线性相关性
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzAwOTUyOCwxMzY2MDY2MDkzLDE2MD
-k5NDU1MDMsLTUxMTkxMzQwMSwtMTY1NDE5NTM1Miw5MjI5NTMy
-MjgsMjQ5OTIxNjE2LDE0NDI0OTgyMiw1MTYwNTQ0NTksLTE0OT
-EzNDg0ODMsNDY3MDc1ODYsLTIxMDAwNjQ5MTksLTg4OTIyMTM5
-OCw1MzYwNjQ0ODcsMjQxOTQ0MzQ2LC0xMjkzNDgzMDI4LC05NT
-A5NjkxNzAsMjAzNDAwNjM3NywxMjA5MTc0MTM5LDQ3MTQ3NDg5
-MV19
+eyJoaXN0b3J5IjpbMTA1ODk4NDM1OCwxNzU3MDA5NTI4LDEzNj
+YwNjYwOTMsMTYwOTk0NTUwMywtNTExOTEzNDAxLC0xNjU0MTk1
+MzUyLDkyMjk1MzIyOCwyNDk5MjE2MTYsMTQ0MjQ5ODIyLDUxNj
+A1NDQ1OSwtMTQ5MTM0ODQ4Myw0NjcwNzU4NiwtMjEwMDA2NDkx
+OSwtODg5MjIxMzk4LDUzNjA2NDQ4NywyNDE5NDQzNDYsLTEyOT
+M0ODMwMjgsLTk1MDk2OTE3MCwyMDM0MDA2Mzc3LDEyMDkxNzQx
+MzldfQ==
 -->
