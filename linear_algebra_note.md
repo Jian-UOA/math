@@ -1,9 +1,9 @@
 # 2. 矩阵及其运算
 ﻿
 ﻿矩阵一般不满足的情况：
-$①.AB≠BA$
-$②.AB=O ≠> A=O 或 B=O$
-$③.A≠O,A(X-Y)=O ≠> X=Y$
+$①.AB≠BA$ （不满足交换律）
+$②.AB=O ≠> A=O 或 B=O$ （）
+$③.A≠O,A(X-Y)=O ≠> X=Y$ （不满足消去律）
 
 ## 2.5 矩阵分块法
 
@@ -460,7 +460,7 @@ $AX=B$有解 $\Leftrightarrow r(A)=r(A, B)$
 
 # 4. 向量组的线性相关性
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjYxMDE4MjksMTA1ODk4NDM1OCwxNz
+eyJoaXN0b3J5IjpbLTEzMjE4ODA3NzksMTA1ODk4NDM1OCwxNz
 U3MDA5NTI4LDEzNjYwNjYwOTMsMTYwOTk0NTUwMywtNTExOTEz
 NDAxLC0xNjU0MTk1MzUyLDkyMjk1MzIyOCwyNDk5MjE2MTYsMT
 Q0MjQ5ODIyLDUxNjA1NDQ1OSwtMTQ5MTM0ODQ4Myw0NjcwNzU4
